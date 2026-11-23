@@ -1,0 +1,11 @@
+{
+    "corpus_name": "EGFR-NSCLC",
+    "version": "v1.0",
+    "created_on": "2026-02",
+    "num_documents": 953,
+    "queries_used": [
+        "\n    (\n      \"non-small cell lung cancer\"\n      AND (EGFR OR \"EGFR mutation\" OR L858R OR T790M)\n      AND (osimertinib OR gefitinib OR erlotinib OR afatinib)\n    )\n    ",
+        "\n    (\n      \"lung adenocarcinoma\"\n      AND (EGFR OR L858R OR T790M)\n      AND (\"drug resistance\" OR \"treatment outcome\" OR \"progression-free survival\")\n    )\n    "
+    ],
+    "focus": "EGFR-mutant NSCLC treatment evidence"
+}
