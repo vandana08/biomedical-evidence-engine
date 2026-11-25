@@ -1,10 +1,10 @@
 {
     "corpus_name": "EGFR-NSCLC",
     "version": "v1.0",
-    "created_at_utc": "2026-11-25T06:23:01.679281+00:00",
+    "created_at_utc": "2026-11-25T08:14:40.700001+00:00",
     "num_unique_pmids": 957,
-    "num_chunks": 2638,
-    "num_chunk_occurrences_before_deduplication": 2696,
+    "num_chunks": 2637,
+    "num_chunk_occurrences_before_deduplication": 2695,
     "num_duplicate_chunk_occurrences_removed": 58,
     "num_parse_errors": 0,
     "queries_used": [

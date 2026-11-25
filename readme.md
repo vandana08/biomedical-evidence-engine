@@ -8,6 +8,8 @@ The current corpus focuses on EGFR-mutant non-small cell lung cancer (NSCLC) tre
 
 - Searches a local PubMed abstract corpus.
 - Combines vector and lexical retrieval through `HybridRetriever`.
+- Provides independent `BM25Retriever`, `DenseRetriever`, and non-reranking
+  `HybridRRF` implementations for retrieval comparisons.
 - Reranks results with `cross-encoder/ms-marco-MiniLM-L-6-v2`.
 - Generates answers with `gpt-4o-mini` using only retrieved context.
 - Displays retrieved abstracts, PMIDs, journals, and retrieval/generation latency.
@@ -53,7 +55,13 @@ NCBI_EMAIL=your_email@example.com
 
 ## Run the application
 
-The repository includes a prebuilt corpus under `data/`. Start the Streamlit app with:
+For a fresh clone, build the local corpus before launching the application:
+
+```powershell
+python build_corpus.py
+```
+
+Corpus building requires access to PubMed/NCBI and available OpenAI API credits for generating embeddings. Once the corpus has been built under `data/corpus_v1/`, start the Streamlit app with:
 
 ```powershell
 streamlit run main.py
@@ -87,7 +95,7 @@ Both retrieval indexes are created from the same ordered, deduplicated chunk lis
 - `corpus_metadata.json` — corpus version, counts, queries, and build settings
 - `corpus_parse_errors.json` — records skipped during parsing
 
-The current checked-in metadata records 957 unique PMIDs, 2,638 unique chunks, 58 duplicate chunk occurrences removed, and zero parse errors. Rebuilding requires PubMed and OpenAI access.
+The current checked-in metadata records 957 unique PMIDs, 2,638 unique chunks, 58 duplicate chunk occurrences removed, and zero parse errors. Rebuilding requires PubMed/NCBI access, a configured `NCBI_EMAIL`, and available OpenAI API credits for embeddings.
 
 ## Validate the corpus
 
@@ -145,6 +153,10 @@ The `docs/` directory contains the supporting evidence-quality artifacts:
     ├── pubmed_ingestor.py     # PubMed retrieval and parsing
     ├── load_corpus.py         # Load persisted retrieval artifacts
     ├── hybrid_retriever.py    # FAISS + BM25 fusion
+    ├── bm25_retriever.py      # Independent BM25 retrieval
+    ├── dense_retriever.py     # Independent FAISS retrieval
+    ├── hybrid_rrf.py          # Dense + BM25 reciprocal-rank fusion
+    ├── retrieval_utils.py     # Shared retrieval helpers
     ├── reranker.py            # Cross-encoder reranking
     ├── pipeline.py            # Retrieval and answer-generation pipeline
     ├── generate_eval_dataset.py
