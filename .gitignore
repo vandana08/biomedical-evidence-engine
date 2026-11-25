@@ -9,6 +9,12 @@ __pycache__/
 # Local vector indexes and generated retrieval artifacts
 vectorstore.index/
 
+# Generated FAISS and BM25 data
+data/*faiss*
+data/**/*faiss*
+data/*bm25*
+data/**/*bm25*
+
 # Local editor settings
 .vscode/
 

@@ -1,0 +1,978 @@
+pmid,title,num_authors,missing_initials_count,missing_initials_authors,would_be_skipped
+43055230,First-Line Afatinib starting dose of 30 mg versus 40 mg in advanced non-small cell lung cancer with uncommon EGFR mutations: A retrospective comparative study from Vietnam.,5,0,,False
+43068729,Disrupting ceramide glycosylation prevents adaptive resistance to osimertinib in in vitro and in vivo models of EGFR-mutated non-small cell lung cancer.,17,0,,False
+43060583,Case Report: Longitudinal clonal evolution in EGFR-mutant lung adenocarcinoma with coexisting MET exon 14 skipping and EML4-ALK fusion and subsequent KRAS/BRAF bypass mutations.,9,0,,False
+43060461,Case Report: Long-term survival of a patient with lung adenocarcinoma harboring EGFR 19del/T790M/C797S and KIF26B-NTRK1 rearrangement.,10,0,,False
+43054806,Afatinib is effective in lung adenocarcinoma with an <i>epidermal growth factor receptor exon 19 deletion-insertion (E746_A750delinsIP)</i> detected by comprehensive genomic profiling: A case report.,5,0,,False
+43054042,EGFR-mutant lung adenocarcinoma with leptomeningeal metastasis after osimertinib treatment: intrathecal chemotherapy combined with targeted therapy supported by cerebrospinal fluid next generation sequencing - a case report.,5,0,,False
+43051939,[Resistance Mechanisms and Recent Advances in the Third-generation EGFR-TKI Osimertinib for Non-small Cell Lung Cancer].,3,0,,False
+43051933,[Retrospective Analysis of the Efficacy and Safety of Amivantamab-containing Regimens in Patients with EGFR-mutant Lung Cancer and Leptomeningeal Metastases].,12,0,,False
+43048093,Real-world outcomes of caucasians with <i>EGFR</i>-mutated non-small-cell lung cancer treated with surgery (EXERPOS-2 GFPC study).,19,0,,False
+43046664,Structural Optimization of Pyrimidine-Based EGFR Inhibitors Against Resistance Mutations in NSCLC.,6,0,,False
+43036259,Osimertinib resistance in non-small cell lung cancer is mediated by sustained AKT activation through lipid raft-dependent insulin signaling.,3,0,,False
+43030350,Real-World Treatment Outcomes and Prognostic Factors in Metastatic EGFR-Mutated Non-Small Cell Lung Cancer: A Single-Center Study from a High-Volume Tertiary Chest Hospital.,7,0,,False
+43027820,"Mechanism-Matched Pharmacology of Resistance in EGFR-Mutant NSCLC: Genomic Bypass, Lineage Plasticity, Antibody-Drug Conjugates, and Candidate Biophysical Targets.",1,0,,False
+43021317,Repurposing of abemaciclib to overcome C797S-mediated osimertinib resistance in EGFR-mutant lung adenocarcinoma.,14,0,,False
+43019772,Restoration of Lung Cancer Treatment After Successful Management of Aplastic Anemia: A Report of Two Cases Including a Case of Osimertinib Rechallenge.,9,0,,False
+43017887,Long-Term Recurrence-Free Survival After Surgery and Adjuvant Furmonertinib in a Patient With EGFR-Mutated Pulmonary Sarcomatoid Carcinoma: A Case Report.,2,0,,False
+43014696,Clinicogenomic determinants of early progression on first-line osimertinib in EGFR-mutant NSCLC.,70,0,,False
+43013781,"Gefitinib in breast cancer: molecular rationale, clinical evidence, resistance mechanisms and future perspectives.",2,0,,False
+43009907,Afatinib-associated pancreatitis in a patient with lung cancer- A rare case report.,3,0,,False
+43008663,Coexistence of Osimertinib-Resistant and Osimertinib-Sensitive cell states in an EGFR-Mutant NSCLC model derived at osimertinib resistance.,20,0,,False
+43004990,Primary resistance to afatinib in a patient with NSCLC harboring <i>EGFR</i> p.E709_T710delinsD and brain metastases: a case report and literature review.,3,0,,False
+43002894,Pterostilbene enhances Osimertinib sensitivity in non-small cell lung cancer through FGFR4-dependent ferroptosis.,2,0,,False
+42999604,Should we wait?-timing of SRS in EGFR-mutant NSCLC.,4,0,,False
+42998399,"Novel 4-Anilinopyrimidine-N-Acylhydrazone derivatives as dual EGFR<sup>WT</sup>/VEGFR-2 tyrosine kinase inhibitors against non-small cell lung Cancer: Design, synthesis, biological evaluation, and computational studies.",6,0,,False
+42994820,Successful rechallenge with almonertinib and corticosteroids after gefitinib-induced interstitial lung disease: A case report and literature review.,6,0,,False
+42993168,Impact of Dosage Modifications on Efficacy: Insights from Select Tyrosine Kinase Inhibitors Approved for Treatment of Non-Small Cell Lung Cancer with EGFR Mutations.,11,0,,False
+42991776,Expert Consensus Recommendations on NSCLC Management: Evidence-Based Strategies for Early Resectable and Locally Advanced Disease from Asia.,13,0,,False
+42990969,[Not Available].,14,0,,False
+42988853,ENPP1 inhibits the cGAS-STING pathway to mediate immune evasion in EGFR-TKI-resistant non-small cell lung cancer.,10,0,,False
+42985489,Simultaneous determination of osimertinib and almonertinib concentrations in human plasma and cerebrospinal fluid using UPLC-MS/MS method and its clinical applications.,9,0,,False
+42977173,Pharmacological targeting of ANO1/TMEM16A in cancer: from channel inhibition to protein downregulation.,4,0,,False
+42975994,FLAURA2 - a step forward in first-line treatment of advanced EGFR-mutated non-small cell lung cancer.,2,0,,False
+42973948,Epigenetic regulation of cancer stem cell plasticity and relapse competence in EGFR-mutant lung cancer.,3,0,,False
+42972485,The TGF-β signaling activated by cancer-associated macrophages promotes cancer stemness and Gefitinib resistance in EGFR-mutant non-small-cell lung cancer.,9,0,,False
+42971390,β-elemene suppressed EMT via IGF1R inhibition in osimertinib treated AXL low-expressing EGFR mutant non-small cell lung cancer.,11,0,,False
+42971367,Reversal of acquired osimertinib resistance by YAP inhibition in lung cancer is associated with lipid metabolic reprogramming.,11,0,,False
+42964983,Overcoming EGFR Resistance by Monovalent and Bident Inhibitors Targeting Cys775.,19,0,,False
+42964815,High PD-L1 Expression and Clinical Outcomes of First-Line Osimertinib in <i>EGFR</i>-Mutant NSCLC: A Multicenter Real-World Validation Study (WJOG 20724L).,21,0,,False
+42962921,Brief report: Clinical and Functional Characterization of Rare Germline and Somatic EGFR Variants in Three Patients with Non-Small Cell Lung Cancer.,28,0,,False
+42959682,Optimal timing of thoracic radiotherapy with osimertinib in unresectable EGFR-mutant non-small cell lung cancer.,8,0,,False
+42957346,Amivantamab-associated capillary leak syndrome presenting with severe anasarca and profound hypoalbuminaemia in metastatic non-small cell lung cancer.,3,0,,False
+42957218,Long-term Disease Control After Probable Endobronchial Small-cell Transformation During Osimertinib Therapy for <i>EGFR</i>-mutant Lung Adenocarcinoma.,9,0,,False
+42955151,Spectrum of ocular adverse events associated with first-generation EGFR tyrosine kinase inhibitors: real-world experience and a proposed management algorithm from a tertiary cancer centre in India.,6,1,Shoaib Nawaz,True
+42955060,Longitudinal plasma osimertinib concentrations during treatment in patients with EGFR-mutant NSCLC: a prospective real-world study.,14,0,,False
+42955056,A randomized phase III study optimizing adjuvant osimertinib for resected EGFR-mutant stage II-III non-squamous non-small cell lung cancer: OASIS trial (JACTOP-01).,17,0,,False
+42954342,A plain language summary of results from the NeoADAURA study: treatment with osimertinib before surgery for patients with EGFR-mutated non-small cell lung cancer that can be surgically removed.,27,0,,False
+42942861,Osimertinib Optimal Dosing Through Population Pharmacokinetics in Virtual Patients with NSCLC: An Approach Integrating Multiple Studies.,7,0,,False
+42937553,Efficacy Augmentation of Ferroptosis-Inducing Nanomedicine for Tyrosine Kinase Inhibitor-Resistant Lung Cancer Brain Metastasis.,15,0,,False
+42930153,Risk Stratification and Factors Associated with Heart Failure Hospitalization During Osimertinib Therapy.,8,0,,False
+42929693,Osimertinib-Savolitinib in Advanced NSCLC after Progression during EGFR-TKI Therapy.,34,0,,False
+42926199,Clinical and molecular prognostic factors associated with outcomes of first-line osimertinib in EGFR-Mutated advanced NSCLC: a systematic review and meta-analysis.,6,0,,False
+42924088,Rapid Regression of Choroidal Metastasis under First-Line Osimertinib Therapy in Epidermal Growth Factor Receptor-Mutated Non-Small Cell Lung Cancer: A Case Report.,5,0,,False
+42923081,"Case Report: Coexpression of somatic <i>EGFR</i>, <i>BRCA1</i>, and <i>BRCA2</i> mutations in metastatic non-small cell lung cancer.",3,0,,False
+42917552,Mutation-Dependent Conformational Dynamics and Dual-Mode Afatinib Binding in EGFR Exon 19 Variants.,3,0,,False
+42913244,Osimertinib Plus Platinum-based Chemotherapy in Patients With EGFR-Mutated Advanced NSCLC Post-progression on First-Line Osimertinib: ORCHARD.,25,0,,False
+42911709,Development of Potent and Selective EGFR-PROTACs Based on Macrocyclic Fourth-Generation EGFR Inhibitors.,18,0,,False
+42906730,"Antibody-drug conjugates after EGFR-TKI resistance in EGFR-mutant NSCLC: Evidence boundaries, post-progression reassessment, and therapeutic sequencing.",4,0,,False
+42899760,Erlotinib Engineering Programs Tumor Targeting in an Atomically Precise Au8 Cluster.,7,0,,False
+42897224,MMP14-mediated proteolytic cleavage of LAMC2 domain III fragment drives osimertinib resistance in EGFR-mutant non-small cell lung cancer.,9,0,,False
+42895061,First-line osimertinib with or without chemotherapy for EGFR-mutant advanced NSCLC in China: a cost-effectiveness analysis.,4,0,,False
+42882792,Longitudinal Assessment of EGFR and MET Transcriptional Activity Using Cell-Free Chromatin Immunoprecipitation in Two Patients with EGFR-Mutated Non-Small Cell Lung Cancer.,4,0,,False
+42871070,Dacomitinib With or Without Dose Titration in Treatment-Naive Advanced <i>EGFR</i>-Mutated NSCLC - Primary Analysis of the ATORG-003 Phase 2 Trial.,14,0,,False
+42870959,Synergistic effects and molecular mechanisms of pirfenidone combined with EGFR-TKIs in non-small cell lung cancer.,7,0,,False
+42870856,Efficacy and safety of osimertinib combined with anlotinib in EGFR-mutant non-squamous non-small cell lung cancer with gradual progression after first-line osimertinib therapy: a single-center retrospective cohort study.,5,0,,False
+42870814,Amivantamab plus chemotherapy <i>vs.</i> chemotherapy in participants with <i>EGFR</i>-mutant advanced non-small cell lung cancer after progression on osimertinib: a MARIPOSA-2 analysis of the Asian subgroup.,18,0,,False
+42869130,Inhibition of the MEK-ERK signaling pathway reverses acquired osimertinib resistance in NSCLC attributed to AXL overexpression.,12,0,,False
+42868834,Xanthatin overcomes osimertinib resistance by disturbing cholesterol metabolism via targeting HMGCR protein degradation in NSCLC.,17,0,,False
+42867814,A Podcast on Osimertinib After CRT in Unresectable Stage III EGFR-Mutated Non-Small Cell Lung Cancer (NSCLC): Current and Future Perspectives.,4,0,,False
+42860291,Metastatic Lung Adenocarcinoma to the Uterus Mimicking a Primary Uterine Malignancy: A Case Report.,2,0,,False
+42858230,Cost-effectiveness of amivantamab plus lazertinib and osimertinib plus chemotherapy versus osimertinib monotherapy for first-line EGFR-mutated advanced non-small cell lung cancer: an updated analysis.,4,0,,False
+42854937,"Acid-degradable hollow calcium-manganese nanocarriers integrate calcium stress, redox catalysis, and antitumor immunity for lung cancer therapy.",10,0,,False
+42849656,PRODH promotes osimertinib drug-tolerant persistence in EGFR-mutant NSCLC by activating mitochondrial transcription.,13,0,,False
+42848765,Dual targeting of EGFR signaling and microtubule dynamics enhances replication-associated cellular stress and suppresses tumor growth in gefitinib-resistant non-small cell lung cancer.,7,0,,False
+42846686,Erlotinib-Induced Pneumatosis Intestinalis: A Case Report and Review of Literature.,7,0,,False
+42846034,HER2 amplification as a resistance mechanism to osimertinib and its successful treatment with trastuzumab deruxtecan: a case report.,10,0,,False
+42840625,The methylation pattern of osimertinib resistance: prospects for diagnosis and treatment of NSCLC.,9,0,,False
+42840441,Reversible osimertinib-associated heart failure mimicking cancer recurrence in <i>EGFR</i>-mutated non-small cell lung cancer after pneumonectomy: A case report.,12,0,,False
+42839924,Cost-effectiveness of first-line aumolertinib versus osimertinib for advanced epidermal growth factor receptor-mutated non-small cell lung cancer in China.,6,0,,False
+42835192,Comparative profiling of osimertinib and fourth-generation EGFR inhibitors on EGFR-mutant proteins and cell lines.,13,0,,False
+42833236,"Combined amivantamab, lazertinib, and bevacizumab in patients with EGFR-mutant advanced non-small-cell lung cancer with acquired resistance to a third-generation EGFR tyrosine-kinase inhibitor (ETOP 18-21 AMAZE-lung): a prospective, international, multicentre, single-arm, phase 2 trial.",25,0,,False
+42833150,"Pyridine-core scaffolds suppress A549 lung cancer cell progression: Evaluation of the antiproliferative activity, apoptosis, ROS generation, clonogenic suppression, and EGFR expression.",5,0,,False
+42827960,Oral mucositis risk with EGFR tyrosine kinase inhibitor monotherapies and combination regimens in non-small cell lung cancer: a systematic review and network meta-analysis.,7,0,,False
+42826097,Lacticaseibacillus rhamnosus GG enhances gefitinib efficacy and reduces treatment-related toxicity via propionyl-L-carnitine regulation.,6,0,,False
+42823148,Clinical Outcomes and Prognostic Factors of ABCP Therapy in EGFR-mutated NSCLC in the Osimertinib Era.,17,0,,False
+42818644,Case Report: Dramatic response of trastuzumab rezetecan in an NSCLC patient with EGFR sensitive mutation and primary ERBB2 genetic alterations.,9,0,,False
+42815097,The Impact of Tumor Immune Microenvironment in EGFR-Mutant Non-Small Cell Lung Cancer on the Efficacy of Osimertinib.,15,0,,False
+42812776,"Osimertinib, a Trigger of Subacute Cutaneous Lupus Erythematosus: Three-Patient Case Series and Literature Review.",7,0,,False
+42810781,"Benzamil-induced cytotoxicity in non-small cell lung cancer is associated with mitochondrial damage, mitochondrial elongation, and altered XIAP signaling.",13,0,,False
+42810632,Targeting the CAF-LPL-STAT3 axis mitigates osimertinib resistance associated with EGFR downregulation.,6,0,,False
+42808393,In Silico Study of Micheliolide Derivatives as Potential Non-Small Cell Lung Cancer Drugs Targeting the Epidermal Growth Factor Receptor.,7,0,,False
+42804885,Real-world progression-free survival with erlotinib versus osimertinib in EGFR L858R + T790M compound mutation non-small cell lung Cancer: An exploratory analysis of the MSK-CHORD dataset.,4,0,,False
+42799384,"Optimal timing of stereotactic radiosurgery with first-line osimertinib in EGFR-mutant non-small cell lung cancer brain metastases: Immediate, early-consolidation and salvage strategies.",5,0,,False
+42794929,"Multiple Options, One Objective: Clearer Decisions in Resectable Non-Small Cell Lung Cancer.",5,0,,False
+42794834,Time-Resolved Network Entropy Analysis Identifies a CTNND1-VAV3 Subnetwork in Gefitinib-Resistant NSCLC.,2,0,,False
+42790325,Time-dependent impact of programmed death-ligand 1 expression on early progression and long-term response to first-line osimertinib in epidermal growth factor receptor-mutant non-small cell lung cancer.,17,0,,False
+42786809,Timosaponin AⅢ and Gefitinib Synergistically Inhibit NSCLC by Targeting RAGE/AKT/NF-κB/VEGF Pathway.,10,0,,False
+42782882,Long-Term Cutaneous Hyperpigmentation During Adjuvant Osimertinib Therapy in a Resected Stage IIB EGFR L858R-Mutated Lung Adenocarcinoma in an Older Adult: A Rare Case Report with Two-Year Follow-Up and Literature Review.,6,0,,False
+42778155,Second-Line Therapy Following Osimertinib in Metastatic EGFR-Mutated Non-Small-Cell Lung Cancer at an Academic Medical Center.,7,0,,False
+42775053,Health-Related Quality of Life and Cost-Effectiveness of First-Line Epidermal Growth Factor Receptor (EGFR) Tyrosine Kinase Inhibitor Monotherapy in Advanced EGFR-Mutated Non-small Cell Lung Cancer: A Systematic Review.,8,0,,False
+42770465,AI-Driven precision targeted therapy for EGFR-mutant non-small cell lung cancer: From therapeutic evolution and resistance mechanisms to intelligent decision systems.,7,0,,False
+42767607,Long-Term Benefit With First-Line Osimertinib Monotherapy in EGFR-Mutated Advanced NSCLC in the Era of Intensified First-Line Therapy.,30,0,,False
+42762664,p53 Co-mutations in EGFR-mutant NSCLC: biological insight and therapeutic implications.,10,0,,False
+42752799,Evaluation of MET Detection Methods and Cutoffs in EGFR-Mutated Non-small Cell Lung Cancer Following Disease Progression on Osimertinib in the phase II SAVANNAH study.,18,0,,False
+42751032,"Triple-Targeted Therapy With Encorafenib, Binimetinib, and Osimertinib in <i>EGFR-</i>Mutated NSCLC With Acquired <i>BRAF</i> Alteration After Osimertinib: A Single-Center Experience.",8,0,,False
+42742903,Transcriptomic and network analyses identify epigenetic regulators of drug-tolerant persister (DTP) subsets in EGFR-mutant HCC827 non-small cell lung cancer.,3,0,,False
+42742045,EGFR Mutation Subtype and Risk of Brain Metastases From Non-Small Cell Lung Cancer in the Osimertinib Era: EGFR Subtype and Brain Metastases in NSCLC.,5,0,,False
+42737623,Longitudinal In Vivo Imaging at Single-Lesion Resolution Identifies Allele-Associated Response and Resistance Dynamics in EGFR-Mutant Lung Cancer.,10,0,,False
+42735369,P-Loop/αC-Helix Compressing Mutations and Exon 20 Insertions in <i>EGFR</i>-Mutant NSCLC: A Rapidly Evolving Therapeutic Landscape.,7,0,,False
+42734867,"Comparative efficacy and safety of first, second, and third-generation EGFR tyrosine kinase inhibitors in treatment-naïve EGFR-mutant advanced non-small cell lung cancer: a systematic review and network meta-analysis of randomized controlled trials.",7,0,,False
+42732874,Adjuvant Osimertinib in Resected EGFR-Mutated Stage IB-IIIA NSCLC: Exploratory 8-Year Overall Survival Landmark Update from the ADAURA Trial.,21,0,,False
+42729980,Resistance to third-generation EGFR TKIs - what can be expected from the fourth-generation?,4,0,,False
+42728535,"Osimertinib Plus Platinum-Pemetrexed: A Review in Previously Untreated, EGFR-Mutated, Locally Advanced or Metastatic NSCLC.",2,0,,False
+42728193,Long-term safety of first-line osimertinib plus platinum-pemetrexed in EGFR-mutated advanced NSCLC: FLAURA2.,25,0,,False
+42723906,Osimertinib <i>vs.</i> erlotinib combined with an angiogenesis inhibitor in <i>EGFR</i>-mutated non-small cell lung cancer with malignant pleural effusion: a retrospective cohort study.,18,0,,False
+42719457,Integrating clinical outcomes with molecular simulations to guide the selection of non-classical EGFR-TKIs: A comprehensive analysis and development of treatment strategies.,6,0,,False
+42714840,Osimertinib After Definitive Chemoradiotherapy in Unresectable Stage III EGFR-Mutated NSCLC: Subsequent Treatments and PPO From the Phase III LAURA Study.,20,0,,False
+42710274,Osimertinib in advanced non-small cell lung cancer (NSCLC) harboring different EGFR uncommon variants: real-world data from the Italian biomarker ATLAS database.,17,0,,False
+42708310,Emerging Therapies in Lung Cancer: A Review on Targeted and Immune Based Interventions.,7,0,,False
+42705855,[Research Progress on Circulating Tumor DNA Status and Postoperative Central Nervous System Recurrence Risk and Overall Survival in Non-small Cell Lung Cancer].,4,0,,False
+42705393,TEAD upregulation promotes osimertinib resistance in NSCLC by recruiting YAP into the nucleus.,11,0,,False
+42704725,"Efficacy and Safety of Savolitinib Plus Osimertinib in EGFR-Mutant, MET-Aberrant Advanced Non-Small Cell Lung Cancer: A Systematic Review and Meta-Analysis.",12,0,,False
+42691830,Clinical outcomes and genomic features of uncommon EGFR exon 19 deletion subtypes in osimertinib-treated non-small cell lung cancer.,17,0,,False
+42691523,Gefitinib response after acquisition of C797S following first-line osimertinib in EGFR L858R/E709K-mutated non-small cell lung cancer: A case report.,5,0,,False
+42689237,"Yifeixiaoji decoction as an adjunct to osimertinib therapy in advanced EGFR-mutated NSCLC: protocol for a randomized, double-blind, placebo-controlled trial.",7,0,,False
+42688362,"A phase II study of DFP-14323, a non-specific immunomodulator, in combination with low-dose afatinib as first-line therapy for common <i>EGFR</i> mutation-positive NSCLC.",9,0,,False
+42688003,Ascomycin enhances the antitumor activity of osimertinib in EGFR-TKI-resistant non-small cell lung cancer.,11,0,,False
+42681853,Co-Occurring EGFR L858R Mutation and HER2 Amplification in NSCLC Identified by Stepwise Molecular Profiling.,9,0,,False
+42674719,Association Between <i>EGFR</i> Mutation Status and Out-of-field Recurrence in Locally Advanced Unresectable Non-small Cell Lung Cancer Treated With Chemoradiotherapy and Durvalumab Consolidation.,13,0,,False
+42667515,Risk-adapted first-line therapy selection in advanced EGFR-mutant NSCLC: a practical clinical algorithm integrating tumor biology and patient factors.,4,0,,False
+42664544,Adding immunotherapy to chemotherapy may improve survival after SCLC transformation in EGFR-mutant NSCLC: a multicenter real-world study.,41,0,,False
+42663218,Do Generic EGFR-TKIs Perform as Well as Innovators? Real-World Evidence from Gefitinib-Treated EGFR-Mutated NSCLC in Indonesia.,5,0,,False
+42660014,The impact of EGFR subtype combined with TP53 co-mutation status on survival outcomes with front-line osimertinib in non-small cell lung cancer (NSCLC).,9,0,,False
+42658660,"Osimertinib plus anlotinib in untreated, EGFR-mutated, advanced non-small-cell lung cancer with concurrent alterations: a multicenter phase II study.",12,0,,False
+42656778,Acquired <i>EML4-ALK</i> fusion and <i>BRAF</i> V600G dual bypass activation following osimertinib resistance in lung adenocarcinoma and successful treatment with lorlatinib: a case report.,2,0,,False
+42656595,Global pharmacovigilance analysis of dermatologic toxicity in EGFR-TKI-treated NSCLC: a cross-database real-world study.,4,0,,False
+42656148,Looking back on the history of epidermal growth factor receptor mutations in lung cancer.,3,0,,False
+42656147,Towards better outcomes for epidermal growth factor receptor L858R+ lung cancer patients: mutant-selective allosteric inhibitors and the potential for double-drugging.,2,0,,False
+42654023,Anti-TROP2 Antibody Drug Conjugates in EGFR-Mutant Non-Small Cell Lung Cancer: Biological Rationale and Clinical Challenges.,8,0,,False
+42647987,Targeting EP2 overcomes osimertinib-tolerant persisters through metabolic and inflammatory reprogramming in non-small cell lung cancer.,10,0,,False
+42645656,"Urea and carbamate-functionalized quinazolin-2,4-dione derivatives as EGFR tyrosine kinase inhibitors: synthesis, anticancer evaluation, molecular docking and molecular dynamics studies.",5,0,,False
+42645370,Pragmatic Management of EGFR-Mutant NSCLC After Progression on Osimertinib: Canadian Expert Perspectives.,17,0,,False
+42645345,The Prognostic Significance of <i>EGFR</i> Adjusted Variant Allele Frequency on First-Line Osimertinib Efficacy in Advanced EGFR-Mutant NSCLC.,7,0,,False
+42639188,Exploiting the intrinsic Michael-acceptor reactivity of osimertinib <i>via</i> thiol-functionalized carbon dots: a mechanistic fluorometric approach.,6,0,,False
+42636546,Therapeutic evolution: Adoption of newly approved systemic therapies in resected stage IB-IIIA NSCLC in the United States.,8,0,,False
+42636333,"Osimertinib-Associated Cardiotoxicity in EGFR-Mutant Non-Small Cell Lung Cancer: Mechanisms, Phenotypes, and Surveillance.",7,0,,False
+42635093,Plain language summary of subcutaneous vs IV amivantamab plus lazertinib in <i>EGFR</i>-altered non-small-cell lung cancer.,10,0,,False
+42620773,Concurrent icotinib and definitive radiotherapy followed by detection of an EGFR exon 20 insertion at disease progression in unresectable stage III EGFR S768I-mutant lung adenocarcinoma: a case report.,9,0,,False
+42614256,"Investigating the mechanism of Fuzheng Sanjie Formula in regulating osimertinib resistance in NSCLC via the CAFs-TIMP3-MMP9 axis: a study integrating network pharmacology, data mining.",6,0,,False
+42612716,A novel peptide encoded by circTLL1 drives osimertinib resistance in lung cancer by modulating the NT5C2/Ras/PI3K axis.,7,0,,False
+42612271,Development of thiazole-hydrazone hybrids for targeted therapy of non-small cell lung cancer.,4,0,,False
+42609808,Case Report: squamous transformation after long-term osimertinib in EGFR-mutant lung adenocarcinoma with retained EGFR/TP53 alterations.,5,0,,False
+42604519,[Holmes tremor as the initial manifestation of EGFR mutated lung cancer].,4,0,,False
+42603542,Recent advances in synthetic strategies of fourth-generation EGFR tyrosine kinase inhibitors under clinical trials for the treatment of resistant non-small cell lung cancer (NSCLC).,2,0,,False
+42601977,Collagenous endobronchial obliteration after chemoradiation followed by consolidation osimertinib: a case report.,5,0,,False
+42601951,Case Report: Diabetic ketoacidosis following EGFR-TKIs therapy via aggravated insulin resistance.,3,0,,False
+42600435,Disparities in Epidermal Growth Factor Receptor Mutation Testing for Non-Small Cell Lung Cancer: Insights From the National Cancer Database.,8,0,,False
+42591288,Case Report: transformation to SCLC from EGFR-mutated squamous cell lung carcinoma during osimertinib treatment.,8,0,,False
+42588620,Targeting Classical <i>EGFR</i> Mutations in Lung Cancer: Twenty Years of Progress and Beyond.,6,0,,False
+42586967,"Mefatinib versus gefitinib as a first-line treatment for EGFR-mutated non-small cell lung cancer: a randomized, double-blind, multicenter phase III study.",48,0,,False
+42579877,Early EGFR Inhibition Triggers Actionable Tumor and Microenvironmental Remodeling in Lung Cancer.,28,0,,False
+42577127,Case Report: Fatal osimertinib-related interstitial lung disease during adjuvant therapy after left pneumonectomy in a patient with lung adenocarcinoma undergoing maintenance hemodialysis.,9,0,,False
+42574009,Osimertinib With or Without Chemotherapy in Advanced Non-Small Cell Lung Cancer With EGFR Variations in Concurrent TP53 Mutations: Research Summary.,0,0,,False
+42574006,Osimertinib With or Without Chemotherapy in Advanced Non-Small Cell Lung Cancer With EGFR and Concurrent TP53 Mutations: A Randomized Clinical Trial.,23,0,,False
+42572587,Mycoplasma infection drives EGFR-TKI resistance through convergent transcriptomic reprogramming in non-small cell lung cancer.,7,0,,False
+42561559,"Novel 2-amino-4-(1H-imidazol)pyridine derivatives as potent brain-penetrant EGFR mutant inhibitors: Design, synthesis, biological evaluation, and molecular modeling study.",11,0,,False
+42558558,Case Report: Exceptional survival with immunotherapy in a patient with <i>EGFR</i> exon 20 insertion (p.S768_D770dup) and high PD-L1 expression.,4,0,,False
+42555732,Development of a structurally distinct TopBP1 inhibitor that enhances PARP blockade and reverses osimertinib resistance.,7,0,,False
+42553316,Lung cancer across borders: From molecular epidemiology to precision treatment strategies.,4,0,,False
+42552814,Aumolertinib Versus Osimertinib as First-Line Treatment for EGFR-Mutant Non-Small Cell Lung Cancer: A Retrospective Real-World Multicenter Study.,10,0,,False
+42548887,"Case Report: Short-term disease control with subsequent icotinib therapy in EGFR L858R/C797S, T790M-negative lung adenocarcinoma after osimertinib resistance.",7,0,,False
+42533181,Inhibition of PGC1β-dependent mitochondrial biogenesis enhances EGFR-targeted therapy in lung cancer.,9,0,,False
+42532288,Targeting the HSP90/miR-656 axis to suppress lung cancer stem cells and overcome autophagy-mediated drug resistance in non-small cell lung cancer.,7,0,,False
+42526733,CLOCK confers EGFR-TKIs resistance in non-small cell lung cancer by transcriptionally upregulating LAMC2 expression and activating multiple kinase signaling.,9,0,,False
+42526383,MET-Aberrant non-small cell lung cancer: from kinase dependence to cell-surface targetability-mechanistic basis and biomarker framework for bispecific antibodies and antibody-drug conjugates.,8,0,,False
+42526135,Fourth-generation allosteric EGFR inhibitors: Structure-based scaffold analysis and SAR exploration.,5,0,,False
+42525965,AZ'4331 is a novel pan-TEAD auto-palmitoylation inhibitor for the treatment of Hippo pathway-altered cancers.,24,0,,False
+42522829,Treatment Patterns and Survival Outcomes in a Real-World Cohort of 263 Patients with EGFR L858R-Mutant Non-Small Cell Lung Cancer: Focus on EGFR-TKI Selection.,14,0,,False
+42520966,"Impact of Genomic Subtype on Intracranial Outcomes in Treatment-Naive, EGFR-Mutant NSCLC With Osimertinib (IGnITE).",38,0,,False
+42519574,Development of gemcitabine-modified multimodal miR-129 mimic as a novel therapeutic in non-small cell lung cancer.,9,0,,False
+42516805,A three-gene signature correlated with MAPK/ERK activation characterizes acquired resistance to EGFR-tyrosine kinase inhibitors in non-small cell lung cancer.,9,0,,False
+42515911,Lazertinib: A Selective EGFR Mutant Inhibitor to Treat Non-Small Cell Lung Cancer.,2,0,,False
+42512348,Risk Stratification and Strategies Towards Front-Line Therapy of EGFR-Mutant NSCLC: A Narrative Review.,3,0,,False
+42511824,CDDO-Me Overcomes Gefitinib Resistance in NSCLC by Targeting the Src/STAT3 Axis to Induce Apoptosis and Pyroptosis.,10,0,,False
+42511551,Early-Phase Activation of Epithelial-Mesenchymal Transition in Lung Cancer Cells Treated with Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitors.,17,0,,False
+42502985,"EGFR-mutant NSCLC progressing on first-line osimertinib: rebiopsy in real-world and impact of second-line therapies (the ""Rebiopsy on Osi"" study).",50,0,,False
+42502359,Cost-effectiveness of first-line osimertinib plus chemotherapy versus amivantamab plus lazertinib for advanced EGFR-mutant NSCLC in the US and China.,12,0,,False
+42502066,HDAC6 promotes osimertinib resistance evolution in non-small cell lung cancer by activating EGFR degradation through the ubiquitin-proteasome pathway.,11,0,,False
+42501006,Beyond the standard 80 mg: Exposure-guided and equity-oriented precision dosing of Osimertinib in EGFR-mutant NSCLC.,3,0,,False
+42500005,Cost-effectiveness analysis of first-line gefitinib plus anlotinib treatment for patients with stage IIIB-IV EGFR-mutated NSCLC in China.,9,0,,False
+42497396,"Early-Stage NSCLC: Novel Surgical Techniques and Neoadjuvant, Adjuvant, and Perioperative Therapies.",2,0,,False
+42496703,Drug-specific timing and fatality patterns of EGFR-TKI-associated interstitial lung disease in NSCLC-related JADER reports.,2,0,,False
+42492805,Dynamic 3D imaging system detects vasculogenic mimicry and screens inhibitors in EGFR-mutant lung cancer.,9,0,,False
+42492306,"Assessing time to symptomatic progression, a patient-relevant efficacy endpoint, in the MARIPOSA study in non-small cell lung cancer.",31,0,,False
+42489649,Recent advances in EGFR-targeted therapies for non-small cell lung cancer.,15,0,,False
+42484063,Pharmacoeconomic Analysis of Osimertinib Compared to Earlier-Generation EGFR Inhibitors in EGFR-Mutated NSCLC: A Systematic Review.,5,0,,False
+42477403,"Circulating epigenetic and epitranscriptomic biomarkers identify EGFR status, predict TKI response and reveal therapeutic vulnerabilities in NSCLC.",16,0,,False
+42473726,Tailored strategies to overcome third-generation TKI resistance in EGFR-mutated non-small cell lung cancer.,6,0,,False
+42469944,Osimertinib-induced acute decompensated heart failure: a case report and review of the literature.,3,0,,False
+42469310,Inhibitory effects of 2'-nitroflavone and apigenin on EGFR signaling in breast cancer cells.,10,0,,False
+42469184,Interleukin-1α-Mediated Activation of TNF-α/NF-κB Signaling Confers Resistance to Osimertinib in EGFR-Mutant Non-Small-Cell Lung Cancer.,15,0,,False
+42467409,Advances in antibody-drug conjugate-based combination therapy strategies for non-small cell lung cancer.,6,0,,False
+42466433,Treatment-Emergent Isolated EGFR C797S Mutation Following First-Line Osimertinib-Based Combination Therapy: A Case Report and Literature Review.,3,0,,False
+42465029,Research progress of EGFR-TKI resistance mechanism and treatment strategy in non-small cell lung cancer.,8,0,,False
+42465015,Kang Ru Plus reverses osimertinib resistance in lung adenocarcinoma via suppression of EGFR/PI3K/AKT signaling.,10,0,,False
+42463770,Multiparatopic antibodies overcome tyrosine kinase inhibitor resistance by inducing lysosomal degradation of EGFR mutants.,13,0,,False
+42463032,PLCG1 and RAC1 orchestrate adaptive cellular programs driving osimertinib-tolerant persister cell formation in malignant pleural effusion-associated non-small cell lung cancer.,7,0,,False
+42462368,Exploring decisional needs of adults considering first line treatment for advanced EGFR+ lung cancer: An interpretive descriptive study.,4,0,,False
+42461464,"Design, synthesis, and biological characterization of a hydrophobic tagging EGFR degrader for the treatment of non-small-cell lung cancer.",5,0,,False
+42460617,A plain language summary of the SAVANNAH study: savolitinib plus osimertinib in patients with EGFR-mutated advanced non-small cell lung cancer with MET overexpression and/or amplification whose cancer had grown or spread on osimertinib.,31,0,,False
+42460015,"Roles of myeloperoxidase and the AMPK/PI3K/AKT/eNOS pathway in osimertinib-induced cardiotoxicity: multilevel evidence from disequilibrium analysis, network pharmacology, mendelian randomization, and animal experiments.",7,0,,False
+42453886,Efficacy and challenges of immunotherapy in advanced <i>EGFR</i>-mutant NSCLC: a case report.,4,0,,False
+42450262,Complete Imaging Resolution of Ductal Carcinoma In Situ During Osimertinib Therapy for Synchronous EGFR Exon 19-Mutant Non-Small Cell Lung Cancer: A Case Report.,5,0,,False
+42450152,Targeting MET in 2025: From Exon 14 Skipping to MET-Amplified Acquired Resistance in Non-Small Cell Lung Cancer.,4,0,,False
+42446521,Clinical Significance of EGFR Amplification in Patients with EGFR-Mutated Metastatic Non-Small Cell Lung Cancer Receiving First-line Osimertinib.,41,0,,False
+42444976,First-line third-generation EGFR-TKIs for advanced EGFR-mutated non-small cell lung cancer: a systematic review and network meta-analysis of randomized controlled trials.,4,0,,False
+42444862,Beyond exon 19 and 21: positioning lazertinib and the next generation of strategies for uncommon <i>EGFR</i> mutations.,1,0,,False
+42442920,BCL-2/BCL-xL inhibitor pelcitoclax with osimertinib for <i>EGFR</i>-mutated advanced non-small-cell lung cancer: a phase 1b trial.,17,0,,False
+42440354,Osimertinib plus Gefitinib in Patients with EGFR-Mutated Advanced Non-Small Cell Lung Cancer and EGFR (C797X) Mutation Following First-Line Osimertinib: ORCHARD.,22,0,,False
+42434729,Chitosan-based nanotheranostics integrated dual-modal imaging and combinatorial tumor therapy for EGFR-TKI resistance reversal.,7,0,,False
+42433252,"Cisplatin re-challenge following recovery from carboplatin-induced, biopsy-proven acute tubular necrosis in a 57-year-old patient with squamous-transformed non-small cell lung cancer: a case report.",14,0,,False
+42433231,"Complete response in disseminated <i>EGFR</i>-mutated lung adenocarcinoma through chemosensitivity-guided chemotherapy, osimertinib, and stereotactic ablative body radiotherapy: a case report.",5,0,,False
+42433229,LPIN2 contributes to tyrosine kinase inhibitor resistance via activation of PI3K pathway.,10,0,,False
+42426756,Early radiotherapy delays acquired gefitinib resistance in EGFR-mutant NSCLC by suppressing c-FOS-associated survival signaling.,7,0,,False
+42423550,Genotype-directed therapy for non-small cell lung cancer diagnosed during pregnancy: A pooled analysis of seven cases from the Cancer and Pregnancy Registry with maternal and neonatal outcomes and review of the literature.,3,0,,False
+42422880,Impact of EGFR variant allele frequency on treatment-related adverse events in patients with metastatic NSCLC treated with osimertinib.,13,0,,False
+42419182,Survival outcomes in EGFR-mutant versus wild-type locally advanced non-small cell lung cancer treated with definitive chemoradiotherapy alone in the pre-PACIFIC/LAURA trial era: A systematic review and meta-analysis using reconstructed individual patient data.,9,0,,False
+42415069,ANGPTL4 contributes to osimertinib resistance through NDRG1-associated extracellular matrix remodeling in EGFR-mutant NSCLC organoid models.,8,0,,False
+42411678,METTL3-Driven Maturation of miR-103 Promotes the Progression of Non-Small Cell Lung Cancer.,9,0,,False
+42407241,"ULK1, a novel therapeutic target to delay drug tolerance to EGFR-TKIs in an EGFR-mutant non-small cell lung cancer model.",15,0,,False
+42404586,Osimertinib Resistance in EGFR-Mutated Non-Small Cell Lung Cancer: Mechanisms and Therapeutic Strategies.,3,0,,False
+42403037,"Correction to ""Highly Specific Cytokine Receptor-Targeting Chimeras for Targeted Membrane Protein Degradation and Sensitization of Osimertinib in EGFR-Mutated Non-Small-Cell Lung Cancer"".",0,0,,False
+42402406,Successful Alternate-day Osimertinib Administration with Desensitization Following Osimertinib-induced Hepatotoxicity and Neutropenia in a Case of EGFR-mutant Lung Cancer.,5,0,,False
+42398861,Focadhesin interacts with SALL4 to regulate EGFR signaling and oncogenesis in non-small cell lung cancer.,5,0,,False
+42394706,Histological transformation into pulmonary sarcomatoid carcinoma from lung adenosquamous carcinoma after radical resection of EGFR gene Exon-21 L858R mutation: a case report and literature review.,12,0,,False
+42391607,Molecular tumor board-guided osimertinib therapy in EGFR L858R/Q701L-mutant lung adenocarcinoma supported by functional validation.,11,0,,False
+42388639,Case Report: Neoadjuvant chemoimmunotherapy achieving pathological complete response in two cases of stage III EGFR-mutant NSCLC with high PD-L1 expression.,5,0,,False
+42386709,Osimertinib-induced cardiotoxicity is driven by HDAC-dependent epigenetic repression and rescued by vorinostat.,12,0,,False
+42385228,Osimertinib-Associated Benign Ocular Hyperpigmentation: A Case Report.,4,0,,False
+42383195,"First-line osimertinib in advanced <i>EGFR</i>-mutated NSCLC: real-world outcomes, clinicogenomic correlates, and oligoprogression management in a multicenter Spanish cohort.",18,0,,False
+42381340,An Observational Study of Afatinib 30 mg Daily in Patients With Advanced Non-Small-Cell Lung Cancer Harboring Common EGFR Mutations Treated With Afatinib.,7,0,,False
+42381268,"MET Dependence Oversteps EGFR Dependence via Balancing Dimerization of the Receptor Tyrosine Kinases in Osimertinib-Resistant MET-Amplified, EGFR-Mutated Non-Small Cell Lung Cancer.",10,0,,False
+42379747,Rescue of Suprasellar Metastasis of <i>EGFR</i>-mutant NSCLC by Daily Osimertinib Re-escalation With Filgrastim Support.,8,0,,False
+42373731,Acquired resistance to first-line osimertinib is heterogeneous in EGFR-mutant advanced non-small cell lung cancer.,4,0,,False
+42363769,Reassessing the Incidence and Risk Factors of Radiation Pneumonitis in Treatment-Naive EGFR-Mutant NSCLC With Concurrent Third-Generation EGFR-TKI and Thoracic Radiotherapy.,9,0,,False
+42361676,Letter to the editor Re: Patient-reported outcomes from the LAURA study: Osimertinib in patients with unresectable stage III EGFR-mutated non-small cell lung cancer after definitive chemoradiotherapy.,3,0,,False
+42361644,Durvalumab plus etoposide-platinum in patients with epidermal growth factor receptor (EGFR)-mutated advanced NSCLC and neuroendocrine transformation after first-line osimertinib: ORCHARD.,18,0,,False
+42361448,Association of TP53 gain-of-function mutations with early osimertinib resistance in epidermal growth factor receptor-mutant lung adenocarcinoma.,21,0,,False
+42352924,Resistance to EGFR Inhibitors in NSCLC: Mechanistic Insights and Emerging Therapies.,7,0,,False
+42352512,Real-World Outcomes and Progression Patterns with First-Line Osimertinib in Patients with Advanced <i>EGFR</i>-Mutant Non-Small Cell Lung Cancer: A Nationwide Turkish Oncology Group Study.,63,0,,False
+42346211,Acquired <i>ROS1</i> Intragenic Rearrangements as a Resistance Mechanism in <i>EGFR</i>-Mutant Non-Small Cell Lung Cancer: A Case Series.,5,0,,False
+42346070,MiR-23c Regulates the Resistance to Gefitinib in EGFR Mutant Non-Small-Cell Lung Cancer Cells.,11,0,,False
+42345080,Evaluating datopotamab deruxtecan (Dato-DXd) as a novel treatment option for EGFR-mutated non-small cell lung cancer.,10,0,,False
+42341878,Brief Report: Aumolertinib as a Switch Therapy in Osimertinib-Intolerant NSCLC-The ACTIVE Trial.,11,0,,False
+42335649,Transplacental transfer of osimertinib and alectinib using an ex vivo human placental perfusion model.,11,0,,False
+42335416,"Optimal Use of Targeted Therapy and Immunotherapy in Early-Stage, Resectable Non-Small Cell Lung Cancer.",3,0,,False
+42333846,"Targeting Ceramide Metabolism to Overcome Osimertinib Resistance in EGFR-mutant Non-Small Cell Lung Cancer: An In Vitro, Network Pharmacology, and In Silico Study.",5,0,,False
+42332497,Effect of EGFR-TP53 co-mutation on the efficacy of EGFR-TKIs in patients with advanced NSCLC and therapeutic strategies: A retrospective study.,2,0,,False
+42331547,[Advances in neoadjuvant therapy for EGFR-mutant non-small cell lung cancer].,2,0,,False
+42329235,"Harnessing Box-Behnken design to optimize erlotinib-niclosamide co-loaded liposomes, overcoming EGFR-mutated lung cancer resistance, and improving sensitivity <i>via</i> EGFR/STAT3 signaling pathway.",5,0,,False
+42328258,Normal Ovarian Reserve During Long-Term Osimertinib Therapy in a Patient With Li-Fraumeni Syndrome: A Case Report and Literature Review.,4,0,,False
+42326343,Case Report: Dynamic TKI combination strategies for EGFR-mutant NSCLC with acquired ROS1 fusion and brain metastases.,6,0,,False
+42325398,Astragaloside IV Co-Loaded Osimertinib Liposomes Alleviate EGFR-TKI Resistance in Non-Small Cell Lung Cancer.,7,0,,False
+42320198,Characteristics and Clinical Outcomes of De Novo and Acquired Uncommon Compound EGFR Mutations in Patients With Advanced Non-Small Cell Lung Cancer: A Brief Report.,3,0,,False
+42314664,Targeting TROP2 in drug-tolerant persister cells delays EGFR tyrosine kinase inhibitor resistance in non-small-cell lung cancer.,33,0,,False
+42309786,Association Between Osimertinib Dose Reduction and Treatment Outcomes in First-Line EGFR-Mutated Advanced NSCLC: The Impact of Post-Progression Management.,17,0,,False
+42308572,Characterization of a rare EGFR resistance mutation in a lung cancer patient with a long response to osimertinib: case report.,10,0,,False
+42308042,Selectively targeting inosine monophosphate dehydrogenase-2 impairs brain metastatic potential while preserving immune cell function.,32,0,,False
+42306727,Are lazertinib and osimertinib comparable for treating advanced <i>EGFR</i>-mutant non-small cell lung cancer?-insights and limitations from the MARIPOSA study.,4,0,,False
+42299598,"Mechanism of afatinib resistance in non-small cell lung cancer patients with nonclassical EGFR mutations: A multicenter, retrospective study.",11,0,,False
+42296617,Osimertinib after definitive CRT in unresectable stage III EGFR-mutated NSCLC: safety outcomes from the phase III LAURA study.,15,0,,False
+42295691,Integrating machine learning-based molecular design with experimental validation for the discovery of EGFR inhibitors in lung cancer.,7,0,,False
+42291352,Duration of systemic therapy in patients with metastatic <i>EGFR</i>-mutated non-small cell lung cancer and brain metastases.,7,0,,False
+42291351,"Case report: durable response to osimertinib, radiotherapy, and chemotherapy combination in advanced non-small cell lung cancer with atypical metastasis.",14,0,,False
+42291346,Lung cancer with <i>EGFR</i> PACC mutations: a practical review of available treatment options and novel therapies on the horizon.,8,0,,False
+42290055,[A Case of EGFR-mutant Lung Adenocarcinoma with Secondary SCLC Transformation and ALK Fusion after Osimertinib Treatment].,2,0,,False
+42287425,Impact of prophylactic skin toxicity management on treatment continuity and clinical outcomes in EGFR-mutant non-small cell lung cancer treated with osimertinib: a 7-year real-world retrospective cohort study.,13,0,,False
+42284680,Tumor cell-intrinsic NSUN2 deficiency reprograms macrophages to sensitize non-small cell lung cancer to EGFR inhibitors by reversing immune evasion.,8,0,,False
+42281913,"Treatment of oligometastatic lung cancers: new data, new drivers, new approaches.",2,0,,False
+42279342,<i>AXL</i>-mRNA Overexpression in Size-Based Enriched Circulating Tumor Cells as a Potential Biomarker for Anti-AXL Targeted Therapies in Non-Small-Cell Lung Cancer.,11,0,,False
+42272656,Case Report: Dramatic response to amivantamab plus chemotherapy in EGFR G719A-mutant lung adenocarcinoma with liver and peritoneal metastases.,3,0,,False
+42270590,Dual actionability of BMI1 activation and mitotic vulnerability defines adaptive Osimertinib resistance in EGFR-mutant NSCLC.,17,0,,False
+42267361,Acquired BRAF-AGK Fusion Following Osimertinib Plus Savolitinib in EGFR-Mutated MET-Amplified Non-Small-Cell Lung Cancer: Durable Response to Gefitinib and Trametinib in a Case Report.,2,0,,False
+42266672,Severe IL-6-dominant immune-mediated inflammatory response complicated by probable arginine vasopressin deficiency following ivonescimab-based therapy in advanced EGFR-mutant lung squamous cell carcinoma: a case report.,3,0,,False
+42259308,[Perioperative Molecular Testing in Non-small Cell Lung Cancer].,3,0,,False
+42257832,Afatinib Versus Osimertinib as First-Line Treatment for Advanced EGFR-Mutant Non-Small-Cell Lung Cancer: A 3-Year Follow-Up Overall Survival Analysis.,7,0,,False
+42256683,Neoadjuvant sintilimab plus chemotherapy in EGFR-mutant non-small cell lung cancer (NEOTIDE/CTONG2104): phase II trial and correlative genomic analysis in China.,17,0,,False
+42249509,Eyelash trichomegaly and durable complete response in a patient with metastatic lung adenocarcinoma receiving tyrosine kinase inhibitors: a case report.,4,0,,False
+42245710,Case Report: response of HER2-positive ductal carcinoma <i>in situ</i> to osimertinib with supporting <i>in vitro</i> evidence.,8,0,,False
+42234951,State-of-the-Art Advances and Management of Unresectable Locally Advanced (stage III) Non-Small Cell Lung Cancer.,3,0,,False
+42231545,High-Dose Furmonertinib Management of Advanced NSCLC Harboring an EGFR Exon 14 Missense Mutation: A Case Report and Literature Review.,4,0,,False
+42231027,Role of VEGFA/VEGFR2 signaling in predicting clinical outcomes of EGFR-TKI treatment in EGFR-mutant non-small cell lung cancer.,20,0,,False
+42229338,Cardiovascular adverse events in non-small cell lung cancer patients receiving osimertinib therapy: a systematic review and meta-analysis.,10,0,,False
+42226508,Afatinib Overcomes Osimertinib Resistance via Egfr V804F Mutation in a Syngeneic Egfr-Mutant Lung Cancer Mouse Model.,23,0,,False
+42222409,Case Report: Long-term survival with erlotinib for lung cancer with secondary leptomeningeal carcinomatosis.,7,0,,False
+42220682,Leptomeningeal Carcinomatosis During Dose-Reduced Osimertinib Therapy in Epidermal Growth Factor Receptor (EGFR) L858R-Mutated Lung Adenocarcinoma: A Case Report.,5,0,,False
+42220422,Exosomes-Transferred lncRNA H19 Reverses Osimertinib Resistance by Upregulating PTEN via Sponging miR-148-3p in Non-Small Cell Lung Cancer.,7,0,,False
+42218657,Afatinib Versus Osimertinib for Non-Small Cell Lung Cancer With Uncommon EGFR Mutations: Real-World Outcomes.,22,0,,False
+42218097,Real World Outcomes for the Efficacy and Safety of Osimertinib in Black Patients With Nonsmall Cell Lung Cancer.,7,0,,False
+42215993,Unexpected elevation of β-hCG in EGFR-mutant lung adenocarcinoma: a case study and implications for clinical practice.,6,0,,False
+42213399,Estimating the Real Option Value of Osimertinib Compared to Standard EGFR-TKI in the Treatment of Advanced NSCLC in the United States.,6,0,,False
+42211900,Osimertinib with chemotherapy in advanced non-small cell lung cancer with vaginal metastasis harboring <i>EGFR</i> exon 21 L858R and <i>NTRK1</i> exon 16 V679M mutations: a case report with prolonged progression-free survival.,4,0,,False
+42210306,TLE1 as a key regulator of osimertinib resistance and EMT in lung adenocarcinoma: implications for prognosis and immunotherapy response.,6,0,,False
+42203350,The Association Between Longitudinal Changes in TRACP-5b and Bone Metastasis Progression During Osimertinib Therapy.,12,0,,False
+42202477,Osimertinib plus selumetinib in patients with EGFR-mutated advanced NSCLC with BRAF alterations post-progression on first-line osimertinib: ORCHARD.,16,0,,False
+42201025,Impact of Variant Allele Frequency (VAF) Levels on Clinical Efficacy of Osimertinib in Patients with Metastatic NSCLC.,8,0,,False
+42198266,Development and In Vitro Evaluation of Gefitinib-Salicylic Acid Nanocrystals for Improved Bioavailability.,11,0,,False
+42187561,A Case of Primary <i>EGFR</i> T790M Mutation in Treatment-Naïve Advanced NSCLC: Clinical and Molecular Implications.,5,0,,False
+42182601,TROPION-Lung14 study protocol: a phase III study of osimertinib in combination with datopotamab deruxtecan versus osimertinib alone as first-line treatment for patients with <i>EGFR</i>-mutated locally advanced or metastatic non-small cell lung cancer.,11,0,,False
+42180117,Efficacy and safety of first-line osimertinib monotherapy versus osimertinib plus platinum-based chemotherapy or amivantamab plus lazertinib in metastatic EGFR-mutated NSCLC: an indirect comparison.,10,0,,False
+42180063,Sequential almonertinib therapy following osimertinib-induced interstitial lung disease in early-stage EGFR-mutant lung adenocarcinoma: a case report.,3,0,,False
+42180046,Double-dose furmonertinib for patients with osimertinib-resistant advanced NSCLC: therapeutic efficacy and safety.,6,0,,False
+42179809,Incidence and Magnitude of Pseudo-decrease in Kidney Function With Oral Epidermal Growth Factor Inhibitor Osimertinib.,7,0,,False
+42170792,"Efficacy and safety of first-line osimertinib in Chinese patients with EGFR-mutated advanced non-small cell lung cancer: a prospective, multicenter, non-interventional study (FLOURISH).",25,0,,False
+42170290,"Precision medicine in the first-line treatment of <i>EGFR</i>-mutated non-small cell lung cancer: moving beyond ""one-size-fits-all"".",2,0,,False
+42170287,Targeted therapy for stage IA non-small cell lung cancer with <i>EGFR</i> mutations: a scoping review.,10,0,,False
+42170286,TROP2 expression as a prognostic predictor for osimertinib in patients with <i>EGFR</i>-mutant non-small cell lung cancer.,10,0,,False
+42170271,"Survival, toxicity, and sequencing: navigating the new first-line standard established by FLAURA2.",13,0,,False
+42170254,The resistance landscape of EGFR tyrosine kinase inhibitors in advanced non-small cell lung cancer: molecular mechanisms and novel therapeutic strategies.,8,0,,False
+42170243,Estimated Cost of Adverse Event Management in Treatment Naïve Non-small Cell Lung Cancer Patients with Common EGFR Mutations Treated with Amivantamab Plus Lazertinib and Osimertinib Plus Chemotherapy.,7,0,,False
+42158804,A Durable Response to Low-Dose Afatinib After Progression on Osimertinib in Advanced Epidermal Growth Factor Receptor (EGFR) L861Q-Mutated Lung Adenocarcinoma: A Case Report.,6,0,,False
+42155306,Phase Ib of repotrectinib plus osimertinib in patients with EGFR-mutated advanced non-small cell lung cancer.,7,0,,False
+42152723,Convergent targeting of FUNDC1-dependent mitophagy sensitises and overcomes resistance to EGFR inhibition.,10,0,,False
+42145014,TP63 drives TKI resistance in EGFR-mutant lung cancer via ferroptosis inhibition.,7,0,,False
+42143548,Response to trastuzumab deruxtecan in postoperative recurrent lung adenocarcinoma harboring concurrent EGFR and HER2 mutations after progression on adjuvant osimertinib.,11,0,,False
+42142703,USP48 stabilizes YBX1 to enforce a Wnt-driven stemness circuit and osimertinib resistance in EGFR-mutant NSCLC.,10,0,,False
+42134241,Pharmacologic activation of PHD2 sensitizes non-small cell lung cancer cells to osimertinib.,12,0,,False
+42131887,Pharmacogenetic landscape of epidermal growth factor receptor mutations in Kurdish non-small cell lung cancer patients: implications for precision oncology.,6,0,,False
+42125848,Osimertinib rechallenge using an oral anti-urticarial medication regimen following full body Urticaria: A case report.,4,0,,False
+42124418,[Trastuzumab Deruxtecan for EGFR-mutant Lung Adenocarcinoma with Acquired High-level HER2 Amplification: A Case Report].,3,0,,False
+42123865,Cudratricusxanthone A Exhibits Antitumor Activities Against NSCLC Harboring EGFR L792H and G796R Triple Mutations via Regulating EGFR-ERK/AKT/STAT3 Signaling.,8,0,,False
+42109522,Variant allele frequency as a predictor of treatment response to osimertinib in EGFR-mutated NSCLC.,12,0,,False
+42106642,Osimertinib-induced interstitial lung disease insights from faers signal detection and network toxicology analysis.,7,0,,False
+42102697,Development of a new series of thiazoles as EGFR-targeted anticancer agents for NSCLC therapy through nanotechnological and computer-aided approaches.,7,0,,False
+42100320,Non-small cell lung cancer after EGFR-TKI resistance: from drug resistance mechanisms to precision interventions.,4,0,,False
+42096800,Phase II study of ramucirumab plus erlotinib for treatment-naïve patients with EGFR-mutant non-squamous non-small cell lung cancer and pleural effusion (RELAY-Effusion).,20,0,,False
+42096692,OB-001 Enhances Osimertinib Brain Penetration: Preclinical Pharmacokinetics and Translational Rationale for EGFR-Mutant NSCLC with CNS Disease.,4,0,,False
+42090641,"Survival, Toxicity, and Economic Outcomes of Osimertinib Versus Second-Generation Epidermal Growth Factor Receptor-Tyrosine Kinase Inhibitors in Metastatic Epidermal Growth Factor Receptor-Mutant Non-Small Cell Lung Cancer.",11,0,,False
+42088937,Tolerance induction for EGFR TKI hypersensitivity in lung cancer: Case report and review.,12,0,,False
+42088610,The Use of Fam-Trastuzumab Deruxtecan-nxki in Treating ERBB2 Amplified Small Cell Lung Cancer Transformed From Non-Small Cell Lung Cancer: A Case Report.,3,0,,False
+42088317,"Leptomeningeal metastatic disease responding to carboplatin, pemetrexed, and amivantamab after progression to osimertinib in EGFR exon 21 L858R-Mutated non-small cell lung cancer: Two case reports.",7,0,,False
+42087187,Unmasking the common enemy: drug resistance mechanisms across three different EGFR inhibitor generations are associated with co-targetable alterations in extracellular matrix signaling.,8,0,,False
+42080004,Osimertinib-associated cardiac dysfunction in epidermal growth factor receptor-mutant non-small cell lung cancer: a single-center three-case series requiring hospitalization.,13,0,,False
+42079860,"The evolving landscape of first-line and subsequent therapies in <i>EGFR</i>-mutated NSCLC: efficacy, resistance, and tolerability.",4,0,,False
+42076061,A Mechanistic Pharmacokinetic/Pharmacodynamic Model for Sequence-Dependent Synergy in Pemetrexed-Osimertinib Combinations Against Non-Small Cell Lung Cancer (NSCLC): Translational Insights.,6,0,,False
+42071190,Aumolertinib in non-small cell lung cancer with uncommon EGFR exon 19 deletions: a real-world dual-center study.,10,0,,False
+42070540,"Design, synthesis and biological evaluation of 2,4,5-trisubstituted 7H-Pyrrolo[2,3-d]pyrimidine derivatives as potent EGFR tyrosine kinase inhibitors against the C797S acquired resistance mutation.",28,0,,False
+42069326,Integrin-targeting cyclic peptides suppress TGF-β1-driven EMT and invasion in third-generation EGFR-TKI-resistant NSCLC.,2,0,,False
+42068867,Erlotinib-Induced Ocular Cicatricial Pemphigoid in EGFR-Mutated Non-Small Cell Lung Cancer: A Case Report.,16,0,,False
+42059424,Cepharanthine Reverses Gefitinib Resistance in NSCLC by Concurrently Inhibiting AKT/P70S6K Survival Signaling and Activating STING-Mediated Immune Response.,7,0,,False
+42058805,Radiation therapy plus osimertinib <i>vs</i> osimertinib alone in epidermal growth factor receptor mutated non-small cell lung cancer: A systematic review.,15,0,,False
+42057232,Endoscopic ultrasound-guided transoesophageal pericardiocentesis: a case report on a therapeutic solution for pericardial tamponade with malignant posterior pericardial effusion.,8,0,,False
+42055889,"A Retrospective, Multicenter Analysis Within the National Network Genomic Medicine Lung Cancer in Germany to Detect RET Fusions as a Possible Mechanism of Resistance in Patients With EGFR Mutations.",20,0,,False
+42051259,Case Report: A successful rechallenge with aumolertinib after osimertinib-induced severe interstitial lung disease.,8,0,,False
+42049362,Life-threatening Pneumonitis Induced by Osimertinib Monotherapy as a First-line Treatment for Epidermal Growth Factor Receptor Mutation-positive Non-small-cell Lung Cancer: A Retrospective Case-series Study.,10,0,,False
+42047936,Post-marketing safety surveillance of EGFR-targeted agents and disseminated intravascular coagulation risk: a disproportionality analysis based on the FDA Adverse Event Reporting System.,6,0,,False
+42044554,3-Deoxy-4-sulfonamido-butein derivatives promote cell cycle arrest and apoptosis by inhibiting EGFR/JAK2/STAT3 signaling in A549 lung cancer cells.,15,0,,False
+42039685,Durvalumab Plus Chemotherapy in Patients With <i>EGFR</i>-Mutated Advanced NSCLC Whose Disease Progressed on First-Line Osimertinib: ORCHARD.,24,0,,False
+42037107,A plain language review of results from the LAURA study: osimertinib after chemoradiotherapy for patients with EGFR-mutated non-small cell lung cancer that cannot be removed by surgery.,23,0,,False
+42035856,IGF2R as a master regulator of acquired EGFR inhibitor resistance and therapeutic target in non-small cell lung cancer.,7,0,,False
+42033967,Perioperative strategies for resectable EGFR-Mutant NSCLC: evidence hierarchy and clinical decision-making.,9,0,,False
+42033063,Efficacy of Osimertinib in Patients With Postoperative Recurrent Non-Small-Cell Lung Cancer Harboring Sensitizing EGFR Mutations.,20,0,,False
+42032945,Empirical Osimertinib as a Second-Line Treatment Is a Viable Option Following First- and Second-Generation TKI Therapy With Unknown EGFR Status in Treated Non-Small Cell Lung Cancer: A Retrospective Study.,7,0,,False
+42031983,USP7-dependent stabilization of FKBP4 contributes to acquired osimertinib resistance through glycolytic remodeling in NSCLC.,3,0,,False
+42030648,"Discovery and development of the preclinical candidate (SH-1092), a potent third generation EGFR inhibitor for the treatment of NSCLC.",10,0,,False
+42028225,Role of radiotherapy in the treatment of <i>EGFR</i>-mutant non-small-cell lung cancer: a narrative review.,13,0,,False
+42021316,CZC54252 overcomes Osimertinib resistance by targeting EGFR<sup>C797S</sup> mutations.,7,0,,False
+42019226,Patient-reported outcomes from the LAURA study: osimertinib in patients with unresectable stage III EGFR-mutated non-small cell lung cancer after definitive chemoradiotherapy.,16,0,,False
+42018335,An In silico model-based feasibility assessment of erlotinib long-acting injectable formulation for the management of metastatic non-small cell lung cancer.,5,0,,False
+42007639,Galangin Overcomes Gefitinib and Sotorasib Resistance in Non-small Cell Lung Cancer by Inhibiting Efferocytosis.,10,0,,False
+42004224,PDK1 elevation was induced by epigenetic modifications of KDM3A and METTL16 to mediate TKI resistance and cancer development.,12,0,,False
+42002981,EGFR and ALK Targeted Therapy Response in Non-Small Cell Lung Cancer Harboring Rare or Resistant Mutations: A Case Report and Molecular Insights.,4,0,,False
+41997038,Associations between early loss of skeletal muscle and osimertinib trough concentrations in patients with advanced EGFR-mutated NSCLC.,6,0,,False
+41995791,Polycationic dendrimers synergizes with gefitinib to overcome EGFR<sup>Ex19Del</sup>-driven resistance in non-small-cell lung cancer.,12,0,,False
+41994846,Aplastic anaemia with small paroxysmal nocturnal haemoglobinuria clones developing during osimertinib therapy for non-small cell lung cancer.,10,0,,False
+41988621,Incidence and Radiological Spectrum of Interstitial Lung Disease in Patients With Lung Cancer Treated With Tyrosine Kinase Inhibitors: A Single-Center Observational Study.,12,0,,False
+41988299,Global trends and research progress on immunotherapy for <i>EGFR</i>-mutant non-small cell lung cancer: a bibliometric analysis.,2,0,,False
+41987835,A multi-stage computational pipeline for repurposing FDA-approved drugs: application to EGFR C797S-mutant NSCLC.,10,0,,False
+41981516,Real-world cardiovascular risk comparison of first-line osimertinib and earlier generation EGFR-TKIs in EGFR-mutated NSCLC: a TriNetX USA network analysis.,7,0,,False
+41975505,DNA base lesion-containing G-quadruplex mediates transcriptome reprogramming in EGFR-TKI resistance of non-small cell lung cancer.,19,0,,False
+41973054,Cost comparison of osimertinib plus platinum-pemetrexed versus amivantamab plus lazertinib for the first-line treatment of patients with locally advanced or metastatic epidermal growth factor receptor-mutated non-small cell lung cancer.,8,0,,False
+41970061,Long-Term Survival Achieved by Combined Surgical Resection and Immunotherapy for Recurrent Adrenal Oligometastasis of Lung Adenocarcinoma: A Case Study.,5,0,,False
+41967619,Epidermal growth factor receptor (EGFR) atypical mutations in non-small-cell lung cancer (NSCLC): 'Where the streets have no name'.,12,0,,False
+41955549,Evaluating Tumor Burden as a Predictive Biomarker for Epidermal Growth Factor Receptor Targeted Kinase Inhibitor Therapy in Advanced Non-Small Cell Lung Cancer.,24,0,,False
+41950648,Structure-guided discovery of a potent 2-aryl-4-aminoquinazoline-based inhibitor overcoming osimertinib resistance driven by EGFR C797S mutation in NSCLC.,13,0,,False
+41948726,ETV6-NTRK3 as a resistance mechanism to epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors: favorable response after combination of osimertinib and entrectinib: a case report and literature review.,7,0,,False
+41942041,Osimertinib delivery using 660 nm-activated polymeric nano-photosensitizer carriers for combined photodynamic and EGFR-targeted therapy of non-small cell lung cancer.,8,0,,False
+41940256,Taxanes Versus Pemetrexed After Osimertinib Resistance in EGFR-Mutated NSCLC: A Retrospective Cohort with Two-Model In Vitro Validation.,8,0,,False
+41938081,Efficacy and Safety of First-Line Ramucirumab Plus Erlotinib for <i>EGFR</i> L858R-Mutated NSCLC in Real-World Practice: A Retrospective Multicenter REAL-SPEED Analysis.,52,0,,False
+41934032,Frequent RBM10 Comutation and a Mutually Exclusive Relationship With Other TP53 Pathway Aberrations in Early-Stage Non-Small-Cell Lung Cancer with EGFR Mutation.,11,0,,False
+41931244,HIF-1α siRNA Enhances the Efficacy of Erlotinib in Non-small Cell Lung Cancer: A Novel Strategy to Reverse Hypoxia-Induced Drug Resistance.,7,0,,False
+41930161,"Lorlatinib and Amivantamab: A Paradigm Shift in <i>EGFR</i> and <i>ALK</i> Positive NSCLC, with More Effective but More Toxic Treatments Requiring a Well-Structured Shared Decision Making.",3,0,,False
+41927036,Synergistic Antitumor Activity of Combination Therapy with a MET TKI Vabametkib and a Third-Generation EGFR TKI Lazertinib in MET-Amplified EGFR-Mutant NSCLC.,10,0,,False
+41924561,Rezivertinib in <i>EGFR</i>-Mutated Non-Small Cell Lung Cancer Patients with Central Nervous System Metastasis: Central Nervous System Efficacy from the Phase III REZOR Study.,45,0,,False
+41921504,National Delphi consensus on perioperative and locally advanced NSCLC management in Colombia.,7,0,,False
+41920265,Glycyrrhizic Acid Alleviates Osimertinib-Induced Cutaneous Toxicity by Inhibiting Keratinocyte Apoptosis and Inflammation.,9,0,,False
+41920244,Rapid screening of potent and mechanistically insightful repurposable anticancer drugs targeting EGFR for non-small cell lung cancer: machine learning-aided and structure-guided approach.,2,0,,False
+41918647,Triple-Dose Furmonertinib for Leptomeningeal Metastases in Advanced Epidermal Growth Factor Receptor (EGFR) L858R-Mutated Lung Adenocarcinoma: A Case Report.,5,0,,False
+41913119,Sensitivity of different epidermal growth factor receptor (EGFR) exon 19 deletion subtypes to first-line osimertinib in Chinese non-small cell lung cancer patients.,10,0,,False
+41908738,Clinical Outcomes of Osimertinib Combined with Platinum-Based Chemotherapy in EGFR-Mutant Non-Small Cell Lung Cancer: A Retrospective Study.,2,0,,False
+41907704,Osimertinib for Patients With EGFR-Mutated Non-Small Cell Lung Cancer: Current Evidence.,7,0,,False
+41907614,<i>FGFR3-TACC3</i> fusion as a potential primary resistance mechanism to EGFR-TKI in lung adenocarcinoma harboring co-driven mutations: a case report.,6,0,,False
+41904352,Precision in Pharmacoeconomics: A Comparative Cost-Utility Analysis of Osimertinib in EGFR-Mutant NSCLC Using Traditional and Pharmacometric Models.,1,0,,False
+41901620,The Effect of HER3 Expression on Prognosis in EGFR-Mutant Non-Small Cell Lung Cancer: A Retrospective Real-World Study.,11,0,,False
+41899369,Safety Profile and Tumor Response of EGFR-TKIs in Clinical Practice: A Real-World Study in Thailand.,8,0,,False
+41898563,MicroRNA Mimics Based on the miR-15/107 Consensus Sequence Sensitise NSCLC Cells to Targeted Therapy.,7,0,,False
+41882274,TAS3351 is a brain penetrable EGFR-TKI that overcomes T790M and C797S resistant mutations.,7,0,,False
+41875675,"Exploring the potential of heterocyclic-containing tail approach in the development of novel covalent inhibitors dual-targeting EGFR and HER-2: design, synthesis and biological evaluation.",13,0,,False
+41874451,The Oncogenic EGFR-SHC1 Fusion Confers Insensitivity to EGFR-TKIs via Dual Activation of N-EGFR Kinase Domain and C-SHC1 Phosphorylation Sites in Lung Cancer.,24,0,,False
+41873370,Case Report: Rare Multidrug-Resistant Enterobacter Cloacae Complicated by Invasive Pulmonary Aspergillosis in an Elderly Patient with Advanced Lung Adenocarcinoma Treated with Osimertinib.,4,0,,False
+41872782,EGFR G719X + S768I co-mutations in NSCLC: genomic landscape and differential responses to EGFR-TKIs in a large real-world cohort.,7,0,,False
+41865688,Yifei Sanjie pill combined with gefitinib reduces the progression of EGFR-TKIs-resistant non-small cell lung cancer via YAP/ANKRD1 axis.,17,0,,False
+41862776,Real-World Outcomes of Sequential Afatinib and Osimertinib Versus Afatinib and Chemotherapy in EGFR-Mutant NSCLC: Taiwan Multicenter GIANT Study.,12,0,,False
+41859810,Secondary Aplastic Anemia During Osimertinib Treatment for Lung Adenocarcinoma: A Case Report.,8,0,,False
+41859213,Advances in Radiation Therapy for Unresectable Locally Advanced Non-Small Cell Lung Cancer: From Technical Advances to Immunotherapy Integration.,1,0,,False
+41857145,Gracillin overcomes osimertinib resistance in NSCLC via dual inhibition of EGFR and Mcl-1.,10,0,,False
+41853316,CD73 expression as a resistance mechanism in advanced <i>EGFR-</i>mutated non-small cell lung cancer.,10,0,,False
+41846983,"Primary cilia promote resistance to EGFR tyrosine kinase inhibitor, osimertinib, in non-small cell lung cancer.",6,0,,False
+41831430,When EGFR meets MET: Dual blockade as the next post-TKI standard?,2,0,,False
+41825181,"EGFR mutation status, treatment patterns, and outcomes in resectable early-stage non-small cell lung cancer prior to adjuvant EGFR-TKI approval: An international real-world study.",15,0,,False
+41824443,AKR1C3 Inhibition: A Strategy to Reverse Osimertinib Resistance in Non-small Cell Lung Cancer.,1,0,,False
+41821004,Farnesyltransferase inhibitor LB42708 disables oncogenic RAS signaling and overcomes gefitinib resistance in NSCLC via FTase α-subunit and RAS degradation.,24,0,,False
+41816486,Aumolertinib combined with targeting <i>ETV4</i> in the treatment of non-small cell lung cancer.,6,0,,False
+41808710,Osimertinib opens the door for patients with <i>EGFR</i>-mutated advanced non-small cell lung cancer and a poor performance status: comment on the OPEN/TORG2040 trial.,2,0,,False
+41808706,PKC-iota drives EGFR-TKI resistance in EGFR-mutated NSCLC by phosphorylating FASN to reprogram lipid metabolism.,10,0,,False
+41801573,Cardiotoxic Effects of Osimertinib Compared to Other EGFR Inhibitors: A Systematic Review and Meta-Analysis.,9,0,,False
+41801128,Patient-Reported Outcomes in FLAURA2: Osimertinib with or without Chemotherapy in Patients with Previously Untreated EGFR-Mutated Advanced Non-Small Cell Lung Cancer.,18,0,,False
+41795340,Novel 2-Anilinoquinazoline derivatives as apoptosis-inducing agents in drug-resistant NSCLC cells: Integrating biological and computational evaluation.,12,0,,False
+41793689,Genomic Analysis and Clinical Correlation of Non-Small Cell Lung Cancer with Special Reference to Brain Metastasis.,8,0,,False
+41792787,Efficacy of osimertinib combined with anti-VEGF therapy ramucirumab in managing leptomeningeal metastasis in EGFR-mutant NSCLC: a case report and literature review.,3,0,,False
+41790042,"ELIOS: A Multicenter, Molecular Profiling Study of Patients with EGFR-Mutant Advanced Non-Small Cell Lung Cancer Treated with First-Line Osimertinib.",18,0,,False
+41790029,Genomic Profiling of Epidermal Growth Factor Receptor Mutation-Positive Non-Small Cell Lung Cancer after Progression on First-line Osimertinib: Phase II ORCHARD Study.,14,0,,False
+41785639,Osimertinib after definitive chemoradiotherapy in patients with unresectable stage III EGFR-mutated NSCLC: LAURA China cohort.,17,0,,False
+41780641,Osimertinib plus datopotamab deruxtecan in patients with EGFR-mutated advanced NSCLC after progression on first-line osimertinib: ORCHARD.,21,0,,False
+41777062,[Identification of SORD as A Key Gene Mediating Osimertinib Primary Resistance  in EGFR-Mutant Lung Adenocarcinoma via Machine Learning and Methylomics].,9,0,,False
+41760274,Concurrent Pemetrexed With EGFR-TKI Slows the Accumulation of <i>De Novo</i> Mutations During <i>In Vitro</i> Exposure.,8,0,,False
+41760241,Leptomeningeal Metastasis in Patients With EGFR-positive NSCLC: A Propensity-matched Retrospective Study of Patients With EGFR-negative NSCLC.,8,0,,False
+41757675,TGF-β Inhibitor Potentiates Osimertinib-Induced Anti-Tumor Immunity in Egfr-Mutant Lung Cancer.,18,0,,False
+41752065,The Impact of HER3 Dynamics Altered by HER3-DXd Alone and in Combination with Driver Oncogene Inhibitors on HER3-DXd Efficacy.,6,0,,False
+41751873,"Design, Synthesis, Antiproliferative Potency and In Silico Studies of Novel Alkynyl Quinazolines as Potential EGFR Inhibitors.",9,0,,False
+41746542,Cost Effectiveness of Osimertinib with Chemotherapy Compared to Osimertinib Monotherapy and First-Generation EGFR-TKIs in Advanced NSCLC in the USA.,2,0,,False
+41736995,Prospective Observational Real-World Study of Afatinib as First-Line Treatment in Patients with Epidermal Growth Factor Receptor (EGFR) Mutation-Positive Advanced Non-Small Cell Lung Cancer (NSCLC) in China.,8,0,,False
+41736521,Epidermal growth factor receptor tyrosine kinase inhibitor for the treatment of non-small cell lung cancer in the past 30 years (1997-2026).,7,0,,False
+41730152,Role of EGFR-TKIs in Nonmetastatic Epidermal Growth Factor Receptor-Mutated Non-Small Cell Lung Cancer: A Comprehensive Review.,2,0,,False
+41723914,"Upfront treatment with osimertinib in lung cancer patients with and without active brain metastases, and the role of ctDNA as a biomarker; a phase II clinical trial (the FIOL study).",11,0,,False
+41722838,The histone-modified landscape: Core mechanisms of osimertinib resistance in EGFR-mutant lung cancer.,6,0,,False
+41722475,Efficacy and safety of second-line treatments in patients with advanced EGFR-mutated non-small cell lung cancer progressing on osimertinib without identified targetable resistance mechanism at progression.,10,0,,False
+41705139,Metabolic marker profiling of circulating tumour cells in NSCLC patients treated with osimertinib: focus on MCT1 and MCT4.,7,0,,False
+41697515,Treatment Patterns and Clinical Outcomes in Unresectable Stage III EGFR-Mutated Non-Small Cell Lung Cancer in China.,8,0,,False
+41696740,Huang-qin decoction increases the sensitivity of EGFR-TKIs to NSCLC cells by regulating stat3/GPX4 to induce redox ratio and ROS to inhibit CSCs.,13,0,,False
+41695485,Red blood cell-conjugated biomimetic nanomedicine for enhanced therapy of non-small cell lung cancer.,11,0,,False
+41695371,Furmonertinib plus pemetrexed in the treatment of <i>EGFR</i> exon 19 deletion lung adenocarcinoma: two case reports.,4,0,,False
+41694974,Acquired CCDC6-RET Fusion After First-Line Osimertinib in Epidermal Growth Factor Receptor (EGFR)-Mutant Lung Adenocarcinoma: A Case Report.,5,0,,False
+41689889,Overall survival for amivantamab plus lazertinib versus osimertinib as first-line treatment in Asian participants with EGFR-mutant advanced NSCLC: A MARIPOSA subset analysis.,20,0,,False
+41687187,Overcoming osimertinib resistance in NSCLC: The role of Notch1 pathway inhibition by berberine.,3,0,,False
+41686417,Real-World Clinical Outcomes and Treatment Patterns in Advanced/Metastatic EGFR-Mutant NSCLC After Progression on First-Line Osimertinib for French Patients.,17,0,,False
+41682625,The Effects of Variant Allele Frequency for EGFR Mutation on Early Tumor Shrinkage and Deepness of Response to Osimertinib in Patients with Metastatic Non-Small Cell Lung Cancer: An Exploratory Analysis.,18,0,,False
+41681965,"Neoadjuvant, Adjuvant and Perioperative Treatment in Early-Stage Non-Small Cell Lung Cancer (NSCLC) with Actionable Genomic Alterations: Current Landscape and Future Perspectives.",2,0,,False
+41681946,Effects of N361 Glycosylation on Epidermal Growth Factor Receptor Biological Function.,8,0,,False
+41676694,Recurrent Escape from Osimertinib-Induced Senescence Promotes Genomic Instability Associated with Therapeutic Resistance.,5,0,,False
+41675516,"Triple-positive non-small cell lung cancer harboring EGFR mutation, ALK rearrangement, and high PD-L1 expression: a case report and literature review.",6,0,,False
+41673646,Buddlejasaponin IV inhibits proliferation and migration via STAT3 suppression in gefitinib-resistant non-small cell lung cancer cells.,8,0,,False
+41673455,Efficacy and safety findings of the EXTRA study in older adult EGFR-mutant lung cancer patients receiving afatinib as first-line treatment.,31,0,,False
+41672191,EGFR and IRE1α pathways are associated with distinct immunomodulatory gene expression profiles in NSCLC cells with acquired resistance to EGFR TKIs.,11,0,,False
+41671451,"From Diagnosis, Therapy Decision-Making to Genetic Risk Assessment: The Impact of ctDNA Testing on Comprehensive Cancer Management-A Case Report.",8,0,,False
+41669368,From Gefitinib to Amivantamab: Progress and Perspectives of Therapies Targeting the Epidermal Growth Factor Receptor in the Era of Precision Oncology.,2,0,,False
+41667687,Influence of SNVs on adverse reactions and survival in gefitinib-treated lung cancer patients from a preliminary study.,7,0,,False
+41666774,"Repurposing disulfiram for ALDH-positive NSCLC: Network-based inhibition of EGFR, COX-2, and MAPK1.",3,0,,False
+41660509,Case Report: A patient harboring rare EGFR S768I/V769L compound mutation benefited from afatinib and osimertinib.,6,0,,False
+41659272,A comprehensive clinical trajectory of <i>EGFR</i> A763_Y764insFQEA-positive non-small cell lung cancer treated with fifth-line osimertinib following circulating tumor DNA-based detection: a case report.,3,0,,False
+41657791,Restoring osimertinib sensitivity in EGFR-mutant NSCLC: the role of anlotinib in modulating Wnt/β-catenin/YAP pathways.,9,0,,False
+41649868,"JIN-A02, a Mutant-Selective Fourth-Generation EGFR Inhibitor, Overcomes C797S-Mediated Resistance and Demonstrates Intracranial Activity in NSCLC.",18,0,,False
+41635813,Spotlights on ubiquitin-specific proteases in lung cancer: from multifaceted pathophysiological mechanisms to potential therapeutic targets.,8,0,,False
+41635410,Case Report: The double-edged sword: cytokine release syndrome and rapid tumor response in a patient treated with amivantamab and chemotherapy.,10,0,,False
+41630689,Cost-effectiveness analysis of rezivertinib and gefitinib in patients with EGFR-mutated advanced non-small cell lung cancer.,5,0,,False
+41622936,[A Case of Refractory Pulmonary Enteric Adenocarcinoma with EGFR Sensitive Mutation].,8,0,,False
+41622600,Preclinical to Clinical Translation of Pharmacokinetic-Pharmacodynamic Relationship in EGFR Exon20Ins Mutations: A Modeling Framework for Irreversible Inhibitors.,21,0,,False
+41619151,First Line and Treatment Sequencing in EGFR-Mutated Metastatic NSCLC: What is Right for Which Patient?,3,0,,False
+41617518,Genomic profiling of early-stage resectable non-small-cell lung cancer in a Malaysian private healthcare setting: Real-world clinical implications.,14,0,,False
+41617459,First-Line Afatinib 30 mg <i>Versus</i> 40 mg in Non-small Cell Lung Cancer Patients With Uncommon EGFR Mutations: Real-world Efficacy and Tolerability in Taiwan.,12,0,,False
+41616404,Afatinib alters DNA methylation and Paneth-like differentiation markers in Caco-2 cells.,3,0,,False
+41612551,Discovery of Highly Selective AKR1C3 Inhibitors to Overcome EGFR C797S-Mediated Osimertinib Resistance in Non-Small Cell Lung Cancer.,11,0,,False
+41612351,Osimertinib activates TFEB to trigger hepatocyte cytoplasmic vacuolation-associated cell death.,10,0,,False
+41609978,Current and Emerging Treatment Landscape of Common EGFR-Mutated Advanced Non-small Cell Lung Cancer.,3,0,,False
+41601823,Evaluation of the efficacy as well as prognosis of targeted therapy for advanced non-small cell lung cancer patients with different expression of miR-183 family in body fluids.,2,0,,False
+41595602,A Multikinase Inhibitor AX-0085 Blocks FGFR1 Activation to Overcomes Osimertinib Resistance in Non-Small Cell Lung Cancer.,13,0,,False
+41593317,Treatment adherence and clinical outcomes of osimertinib in minority patients with advanced EGFR mutated NSCLC.,14,0,,False
+41591580,A combined strategy of EGFR-MET bispecific antibody and HER3 ADC to overcome osimertinib resistance in NSCLC.,12,0,,False
+41590375,Targeting the Uncommon: A Case Report of Osimertinib Response in Advanced NSCLC Patient with Dual EGFR (E701fs and L702fs) Frameshift Deletions.,5,0,,False
+41585239,Prolonged survival in EGFR exon 20 insertion mutant lung adenocarcinoma: case report of sequential osimertinib and furmonertinib with research trend analysis.,8,0,,False
+41582009,A tri-scale in silico framework integrating pharmacovigilance and mechanistic modeling suggests tepotinib-associated acute kidney injury risk.,8,0,,False
+41581122,Profiling of Extracellular Vesicles of Non-Small Cell Lung Cancer Reveals Proteins Associated With Osimertinib Resistance.,16,0,,False
+41576524,Comprehensive clinical characteristics and outcomes of stage IV EGFR-mutant NSCLC based on PD-L1 expression.,10,0,,False
+41575354,Tumor-Targeted Delivery of an EGFR Inhibitor Prodrug via Site-Specific Albumin Conjugation.,11,0,,False
+41573874,Overcoming EGFR resistance by monovalent and bident inhibitors targeting Cys775.,19,0,,False
+41570773,Osimertinib dose-reduction and survival in 1L EGFR-mutated metastatic non-small cell lung cancer (mNSCLC).,17,0,,False
+41564925,"Endostar overcomes Osimertinib-resistance mediated EGFR-activation mutation, T790M and cis-C797S triple mutations via enhancing the binding of Osimertinib to EGFR protein.",4,0,,False
+41563236,From class effects to specificity FAERS evidence and network mapping of adverse events in NSCLC targeted therapy.,4,0,,False
+41558224,Phase 1/2 trial of brigatinib plus panitumumab in patients with osimertinib-resistant EGFR-mutated non-small cell lung cancer harboring EGFR C797S mutation.,16,0,,False
+41557244,Huaier Aqueous Extract Combined with Gefitinib Promotes ACSL4-Dependent Ferroptosis and Overcomes Gefitinib Resistance in Non-Small Cell Lung Cancer.,8,0,,False
+43064722,Epigenetically driven GAS2L3 enforces non-canonical cell cycle progression to promote osimertinib resistance in lung adenocarcinoma.,10,0,,False
+42985469,Epigenetic Silencing of ZNF471 Contributes to Osimertinib Resistance in Lung Adenocarcinoma: β-Hydroxybutyrate Associates with ZNF471 Re-Expression and Reduced Resistance-Associated Phenotypes.,7,0,,False
+42972594,Anlotinib combined with almonertinib reverses almonertinib resistance in lung adenocarcinoma by inhibiting the c-MET/PI3K/AKT pathway.,3,0,,False
+42959092,Simultaneous occurrence of HER2 mutation and PD-L1 high expression in EGFR-mutant NSCLC: a case report.,3,0,,False
+42958288,MRI-based intratumoral and peritumoral heterogeneity for predicting intracranial progression in EGFR-mutant lung adenocarcinoma patients with treatment-naive brain metastases receiving first-line third-generation EGFR-TKIs.,8,0,,False
+42945595,Genomic characteristics and immunotherapy benefit in MSI-H/dMMR lung cancer: Insights from comparative analyses of Chinese and Western cohorts.,5,0,,False
+42938905,Association of HBsAg Positivity and HBV Reactivation in <i>EGFR</i>-Mutant Lung Adenocarcinoma Treated with EGFR-TKIs: A Retrospective Cohort Study.,6,0,,False
+42930180,"Triple Genetic Alterations (EGFR Mutation, ALK Fusion, and MET Polysomy) in Gynecological Metastasis of Lung Adenocarcinoma Patient with Acquired Resistance to Furmonertinib: A Case Report.",4,0,,False
+42919317,ERK/GATAD2A/SAA1 axis drives osimertinib resistance via NF-κB and macrophage reprogramming in EGFR-mutated lung adenocarcinoma.,15,0,,False
+42913055,"Biomarker-guided targeted therapy in lung adenocarcinoma: A concise review of precision oncology advances, resistance mechanisms, and emerging strategies.",9,0,,False
+42909031,Third-generation EGFR-TKI plus pemetrexed-platinum chemotherapy <i>versus</i> TKI monotherapy as first-line treatment for EGFR-mutant lung adenocarcinoma with brain parenchymal metastases.,7,0,,False
+42898404,Multimodality salvage treatment incorporating ivonescimab plus chemotherapy for EGFR-mutated NSCLC with leptomeningeal metastases after dose-escalated third-generation EGFR-TKI failure: a retrospective study.,11,0,,False
+42871379,Prolonged survival in a 57-year-old female with <i>RB1</i>-wildtype transformed small-cell lung cancer treated with immunochemotherapy and antiangiogenic combined therapy: a case report.,8,0,,False
+42870834,Efficacy and safety of third-generation <i>EGFR</i>-TKI rechallenge therapy in advanced non-small cell lung cancer patients with <i>EGFR</i> mutation: a retrospective cohort study.,10,0,,False
+42864423,DYT8 drives lung adenocarcinoma through EGFR-mediated PSMC6 recruitment and uncharacterized phosphorylation at Ser 306 and 525 of c-Src.,8,0,,False
+42857742,Comparative Efficacy of First-Line versus Further-Line Icotinib Therapy in Advanced Lung Adenocarcinoma: A Real-World Cohort Study.,3,0,,False
+42798159,Lung Adenocarcinoma Presenting as Bilateral Nonresolving Pneumonia Mimicking Pulmonary Infection.,4,0,,False
+42780026,Dynamic clonal evolution of multiple bypass resistance mechanisms in <i>EGFR</i>-mutant lung adenocarcinoma: a case report.,2,0,,False
+42757482,A four‑gene signature identifies TKI‑induced persister cells and uncovers a ZLN005‑induced pyroptotic vulnerability via the GSDME pathway in EGFR‑mutant lung cancer.,14,0,,False
+42703567,Ivonescimab Plus Chemotherapy versus Bevacizumab Plus Chemotherapy in EGFR-Mutant Lung Adenocarcinoma After EGFR-TKI Failure: A Two-Center Retrospective Real-World Propensity Score-Matched Study.,10,0,,False
+42681635,Transcriptomic profiling of lineage transformation and actionable therapy opportunities in EGFR-mutant non-small cell lung cancer evolving to small cell lung cancer.,7,0,,False
+42674257,DNA and RNA EGFR Variant Allele Fractions and Clinical Outcomes in Lung Adenocarcinoma.,15,0,,False
+42670430,Efficacy of First-Line EGFR-TKI Treatment in Octogenarians with Lung Adenocarcinoma and Common EGFR Mutations.,8,0,,False
+42653265,Novel Co-Occurrence of Germline <i>EGFR</i> p.V843I and Somatic <i>EGFR</i> Exon 19 Deletion in NSCLC: Insights into Reduced Sensitivity to EGFR-TKIs.,6,0,,False
+42648586,LINC00511 drives osimertinib resistance in LUAD via PERK kinase: A clinical biomarker with enzymatic therapeutic potential.,9,0,,False
+42638334,Reappraisal of Endobronchial Polypoid Adenocarcinoma of the Lung: A Clinicopathological Analysis of 11 Cases.,14,0,,False
+42628300,"Genomic Profiling, Risk Stratification, and Post-Transformation Treatment Outcomes in Patients with Transformed Small-Cell Lung Cancer: A Multicenter Analysis.",20,0,,False
+42607937,Integration of PNA-mediated PCR and CRISPR/Cas13a for highly sensitive detection of EGFR T790M mutation in circulating tumor DNA.,3,0,,False
+42601812,Exceptional Response of HER2-Positive Breast Cancer to Osimertinib: A Case Report.,11,0,,False
+42600507,High-dose furmonertinib plus bevacizumab and intrathecal pemetrexed for EGFR-RAD51 fusion-positive lung adenocarcinoma with leptomeningeal metastasis: Insights from serial CSF ctDNA monitoring.,5,0,,False
+42540337,Association of Increased MIEN1 Copy Number With Worse Outcomes in Lung Adenocarcinoma and Cervical Cancer.,7,0,,False
+42539527,Predicting response to immune checkpoint inhibitor plus chemotherapy in EGFR-mutant lung adenocarcinoma following first-generation TKI resistance: a multicenter deep learning study.,5,0,,False
+42503459,"Sequential EGFR T790M, MET c.3010C>G-Associated Exon 14 Alteration, and RET-CCDC6 Fusion in EGFR-Mutant NSCLC: A Case Report.",5,0,,False
+42487828,Prognostic value of baseline <sup>18</sup>F-FDG PET/CT metabolic parameters in EGFR-mutant lung adenocarcinoma patients treated with EGFR-TKIs.,3,0,,False
+42475177,AXL phosphosite mapping links FAK1 and YAP1 signaling to erlotinib resistance in EGFR-mutant lung cancer.,13,0,,False
+42438288,"Ginsenoside Rg3 in Cancer Therapy: Pharmacokinetics, Molecular Mechanisms, and Synergistic Combinations.",13,0,,False
+42433249,Prognostic analysis and beneficiary population exploration of subsequent treatment regimens after third-generation EGFR-TKIs failure in EGFR-mutated advanced non-small cell lung cancer: a retrospective cohort study.,18,0,,False
+42426119,RBM15 plays a key driving role in the tumorigenesis of EGFR-mutant lung adenocarcinoma and gefitinib resistance.,10,0,,False
+42421540,"Systematic Investigation of Key Drivers of Lung Adenocarcinoma: A Focus on Genes, Pathways, and miRNAs.",5,0,,False
+42412352,Resection of Primary Lung Tumors in Patients with Stage IV EGFR-Mutant Lung Adenocarcinoma before Progression under First-Line TKI Treatment and Its Impact on Prognosis.,14,0,,False
+42373595,TRMT1-mediated tRNA m<sup>2</sup><sub>2</sub>G modification drives Osimertinib resistance via the ATXN3/USP25 axis in lung adenocarcinoma.,24,0,,False
+42341853,Targeting HDAC2 with bruceine D epigenetically restores SMAD3 expression via H4K16ac enrichment to suppress malignant progression in EGFR-TKI-resistant lung adenocarcinoma.,10,0,,False
+42339122,Case Report: Successful conversion surgery following chemo-antiangiogenic therapy in a lung adenocarcinoma patient with active rheumatoid arthritis and rare EGFR mutation after immunotherapy-triggered flare.,4,0,,False
+42321531,The splicing factor hnRNPA1 promotes osimertinib resistance in lung adenocarcinoma by regulating NEDD4L alternative splicing.,21,0,,False
+42311663,Predicting response to immunochemotherapy in EGFR-mutant lung adenocarcinoma after third-generation TKI resistance using CT radiomics-based habitat imaging.,5,0,,False
+42287786,Rechallenge with zongertinib after trastuzumab deruxtecan in HER2-mutant lung cancer: A case report.,15,0,,False
+42285369,RRBP1 promotes osimertinib resistance by activating fatty acid oxidation-dependent metabolic and immune reprogramming in EGFR-Mutant lung adenocarcinoma.,2,0,,False
+42251944,Exosomal circ_0097112 drives icotinib resistance through activating RAF/MAPK signaling in lung adenocarcinoma.,9,0,,False
+42250881,Bleeding in patients with lung adenocarcinoma receiving concurrent administration of anticoagulation and vascular endothelial growth factor or epidermal growth factor receptor inhibitors.,9,0,,False
+42232599,Multi-Omics and Single-Cell Dissection Reveals EXT1 as a Glycosylation-Linked Therapeutic Target in Cancer.,20,0,,False
+42220530,Ivonescimab monotherapy in an elderly patient with EGFR-TKI-resistant advanced lung adenocarcinoma and pericardial effusion: a case report and literature review.,4,0,,False
+42213229,H4K8 lactylation-mediated ferroptosis defense drives EGFR-TKI resistance in lung adenocarcinoma.,7,0,,False
+42200358,Comparison of Post-Resistance Treatment Outcomes in EGFR-Mutated NSCLC Patients Following Third-Generation EGFR-TKI Therapy: A Retrospective Cohort Study.,7,0,,False
+42191053,STRIP2 confers acquired resistance to EGFR-TKIs in lung adenocarcinoma by modulating IGF2BP3-dependent Twist1 stability.,9,0,,False
+42185471,Optimal treatment strategies for EGFR mutant advanced lung adenocarcinoma patients with targeted therapy resistance and correlation analysis of PD-L1 expression with ICI efficacy.,6,0,,False
+42181867,Response to crizotinib treatment for ROS1 p.H1999N mutation and secondary EGFR p.V774M mutation after drug resistance: a Case Report.,4,0,,False
+42170267,The IASLC grading system as a predictor for EGFR-TKI therapy in patients with <i>EGFR</i>-mutant lung adenocarcinoma.,7,0,,False
+42164113,Dacomitinib in Combination with chemotherapy is effective in lung adenocarcinoma with rare <i>EGFR</i> L747P mutation and bone metastases: a case report.,5,0,,False
+42158415,High prevalence of targetable drivers but poor outcomes in lung adenocarcinoma: a real-world cohort from the French West Indies.,15,0,,False
+42105078,"Molecular characteristics, clonal relatedness and surgical outcomes of pulmonary mixed invasive mucinous and non-mucinous adenocarcinoma: a retrospective cohort study.",11,0,,False
+42103620,[Clinicopathological characteristics of lung adenocarcinoma with PIK3CA mutation].,9,0,,False
+42094614,EGFR-19del nuclear translocation increases HDAC7 expression inhibiting the Hippo pathway and exacerbating TKI resistance in lung adenocarcinoma.,7,0,,False
+42083413,Network Pharmacology and Molecular Docking Analysis on the Mechanism of Hedyotis Diffusa in Overcoming Resistance in EGFR Mutant Cell Line HCC827-GR and Its Experimental Verification.,4,0,,False
+42055887,Impact of Programmed Death Ligand 1 Expression on Outcomes in Stage I-II Epidermal Growth Factor Receptor-Mutant Lung Adenocarcinoma.,10,0,,False
+42041733,Acquired Resistance to Afatinib Mediated by EGFR T790M in Lung Adenocarcinoma Patients Harboring EGFR-KDD: A Case Report and Literature Review.,4,0,,False
+42026030,TRIM26-mediated NKRF degradation drives Osimertinib resistance through SNRPD2-dependent stress granule formation in lung adenocarcinoma.,8,0,,False
+42018150,Clinical and Molecular Characterization of a Rare EGFR cis Compound L833V/H835L Mutation in Non-Small Cell Lung Cancer.,9,0,,False
+42002533,Pleomorphic Carcinoma With EGFR and Concomitant Mutations Transformed From Lung Adenocarcinoma: A Case Report.,13,0,,False
+41998662,MXD4 enhances resistance to KRAS G12C-targeted therapy in lung adenocarcinoma by suppressing ACSL4-mediated ferroptosis.,12,0,,False
+41981503,Biomarker exploration for immunotherapy plus chemotherapy following resistance to third-generation EGFR-TKIs in lung adenocarcinoma.,8,0,,False
+41977137,Longitudinal Whole-Exome Sequencing of Cell-Free DNA Reveals Molecular Evolution and Heterogeneous Clinical Outcomes in PD-L1 Stratified Advanced NSCLC Adenocarcinoma Patients Treated with Atezolizumab.,13,0,,False
+41967624,Artesunate reverses gefitinib resistance in lung adenocarcinoma by inducing ferroptosis and suppressing the Wnt/β-catenin pathway.,9,0,,False
+41962512,First case report of transformation of adenocarcinoma to adenosquamous carcinoma with giant-cell carcinoma harboring HER2 mutation after zongertinib (BI 1810631) resistance.,8,0,,False
+41951052,LncRNA HCP5 remodels G6PD dual post-translational modification to mediate metabolic adaptations driving osimertinib resistance in lung adenocarcinoma.,10,0,,False
+41921856,Modeling acquired TKI resistance and effective combination therapeutic strategies in murine RET+ lung adenocarcinoma.,12,0,,False
+41904893,BMP4-driven morphogenetic reprogramming sustains EGFR-TKI resistance via SOX2 suppression and EMT activation.,8,0,,False
+41895783,BIT1 as an Effector of EGFR-TKI-induced Apoptosis <i>via</i> TLE1 Inhibition in Lung Adenocarcinoma Cells.,8,0,,False
+41868215,Next generation sequencing guided treatment of <i>ALK</i> tyrosine kinase inhibitor induced long survival in lung squamous cell carcinoma harboring <i>ROS1</i> gene fusions: a case report and literature review.,9,0,,False
+41826981,Diverse genomic and transcriptomic heterogeneity in EGFR-mutant lung adenocarcinoma between exon 19 del and exon 21 L858R.,22,0,,False
+41809570,Efficacy of chemotherapy combined with immunotherapy in advanced lung adenocarcinoma harboring epidermal growth factor receptor <i>(EGFR)</i> exon 20 insertion (<i>ex20ins</i>) mutations: A retrospective comparative study.,6,0,,False
+41791429,MiR-29a/DNMT3A axis participates in Dihydroartemisinin's suppression on lung adenocarcinoma: Implications for overcoming acquired resistance to EGFR-TKIs.,8,0,,False
+41761417,Radiogenomics in Leptomeningeal Metastasis of Lung Adenocarcinoma: MRI Patterns and Survival Outcomes Following Ommaya Reservoir Chemotherapy.,7,0,,False
+41719890,Stabilin-1<sup>+</sup> lipid-associated macrophages promote lung adenocarcinoma liver metastasis and osimertinib resistance through impairing macrophage phagocytosis via SIRPα-CD47 axis.,10,0,,False
+41700896,Personalized treatment of HER2-positive lung adenocarcinoma using Human Organoid Drug Sensitivity Test.,22,0,,False
+41690367,"TTF-1 Expression in Lung Adenocarcinoma: Clinicopathologic, Genomic, and Immunophenotypic Correlates and Outcomes to Immunotherapy-Based Treatments and KRAS<sup>G12C</sup> Inhibitors.",48,0,,False
+41672890,[Impact of bone metastasis on the prognosis of lung adenocarcinoma patients treated with third-generation EGFR-TKI and the underlying mechanisms].,6,0,,False
+41668193,Targeting ABCA3 impedes tumor progression and EGFR-TKI resistance in EGFR-mutant LUAD.,8,0,,False
+41599648,Leveraging Acquired EGFR-TKI-Resistant Models to Identify MUC16 as a Therapeutic Vulnerability in Lung Adenocarcinoma.,11,0,,False
+41593906,Clinicopathological characteristics and therapeutic outcomes in patients with non-small cell lung cancer harboring <i>SMARCA4</i> mutations.,9,0,,False
+41578514,Furmonertinib in lung adenocarcinoma with EGFR exon 20 insertion mutation: A case report of positive outcome.,8,0,,False
+41516316,Lineage Plasticity and Histologic Transformation in EGFR-TKI Resistant Lung Cancer.,3,0,,False
+41509005,Individualized management strategies for advanced non-small cell lung cancer with <i>EGFR</i> exon 19 deletion and L861Q compound mutations based on circulating tumor DNA monitoring: A case report.,9,0,,False
+41500779,[Integrative Analysis of Multi-source Public Databases to Screen Core Genes  for Constructing A Prognostic Risk Model in Lung Adenocarcinoma].,5,0,,False
+41484780,LDOC1 connects histone H2B monoubiquitination to tumor cell plasticity in non-small cell lung cancer.,11,0,,False
+41479892,Case Report: Ivonescimab in EGFR-mutant lung cancer with baseline malignant pleural effusion and acquired complex resistance.,11,0,,False
+41479790,"Dose-escalated icotinib in frail, older adults patients with <i>EGFR</i>-mutant lung adenocarcinoma: real-world efficacy and safety in a high-risk cohort.",3,0,,False
+41478201,A tumor-derived lactate/ENO1 lactylation feedback loop facilitates osimertinib resistance of lung adenocarcinoma.,14,0,,False
+41450535,Abnormally Activated MNX1 Promotes Tumor Growth and Osimertinib Resistance and Predicts Survival in EGFR-Mutant Lung Adenocarcinoma.,9,0,,False
+41446744,A translational study on the survival and molecular mechanism of PD-L1 expression in EGFR-mutant NSCLC treated with osimertinib.,12,0,,False
+41426315,Long-term progression-free survival with first-line pyrotinib monotherapy in a treatment-naïve stage IV NSCLC patient harboring an ERBB2 exon 20 insertion: a case report.,5,0,,False
+41406940,Lung adenocarcinoma surfaceome remodeling with EGFR inhibitors uncovers placental alkaline phosphatase as a target for combination therapy.,15,0,,False
+41378013,Risk factors for refractory malignant pleural effusion and the impact on prognosis in non-small cell lung cancer patients with advanced EGFR mutations: a retrospective cohort study using propensity score matching.,7,0,,False
+41356800,A novel mouse cell line model reveals the tumor intrinsic and immune characteristics of EGFR-mutant lung cancer.,14,0,,False
+41350121,Two Cases of Epidermal Growth Factor Receptor L861R Mutation-Positive Lung Adenocarcinoma Treated With Osimertinib and Afatinib.,10,0,,False
+41333366,Clinical outcomes of patients with advanced EGFR mutated nonsquamous cell lung carcinoma treated at a tertiary care hospital.,8,0,,False
+41329713,Transfer of Damaged Mitochondria from Cancer Cells to Cancer-Associated Fibroblasts Promotes Tyrosine Kinase Inhibitor Tolerance in EGFR-Mutant Lung Cancer.,13,0,,False
+41307822,Single-cell transcriptomic analysis reveals cellular and molecular changes in EGFR-positive lung adenocarcinoma before and after Furmonertinib treatment.,5,0,,False
+41303451,Gene Expression Patterns in Lung Adenocarcinoma Cells in Response to Changes in Deuterium Concentration.,4,0,,False
+41293947,FN-1501 Synergistically Enhances Almonertinib Efficacy in EGFR-TKI-Resistant Lung Adenocarcinoma through Ferroptosis Induction.,8,0,,False
+41293164,SLC16A3 drives lung adenocarcinoma progression and gefitinib resistance through coordinated regulation of ferroptosis and lactate metabolism.,7,0,,False
+41269207,"GMI, a Fungal Immunomodulatory Protein From Ganoderma microsporum, Induces Different Cytotoxicity in Parental and Osimertinib-Resistant EGFR-Mutated Lung Cancer Cells via Apoptotic and Autophagic Cell Death.",7,0,,False
+41268250,Advanced lung adenocarcinoma with rare <i>EGFR</i> exon 21 T854A mutation: a case report on increased dose osimertinib following resistance.,6,0,,False
+41257744,"Efficacy and safety of Chinese herbal medicine granules plus chemotherapy in patients with EGFR-mutated advanced lung adenocarcinoma post-progression on first-line EGFR-TKI: study protocol for a multicenter, double-blind, randomized controlled trial.",9,0,,False
+41251847,TKI resistance related genes in LUAD predict patient prognosis and tumor immune microenvironment with LHX2 as a hub gene.,5,0,,False
+41234565,Predicting the prognosis of patients with lung adenocarcinoma treated with third-generation EGFR-TKI alone using nomograms based on CT radiomic and clinicopathological factors.,6,0,,False
+41230183,Immunotherapy Rechallenge of Advanced NSCLC with Acquired EGFR T790M Mutation after EGFR-TKI Therapy: A Case Report.,4,0,,False
+41229830,Intrathecal pemetrexed in patients with epidermal growth factor receptor-tyrosine kinase inhibitor (EGFR-TKI) resistant refractory leptomeningeal metastasis lung adenocarcinoma: a retrospective study.,6,0,,False
+41228367,Revisiting p53 Immunohistochemical Staining and Its Prognostic Implications in Advanced EGFR-Mutated Lung Adenocarcinoma.,9,0,,False
+41226501,Prevalence of Histological Transformation in First-Line Osimertinib Non-Small Cell Lung Cancers: Case Series and Literature Review.,8,0,,False
+41213916,The N6-methyladenosine-mediated cLMNB1 degrades FGFR4 to overcome osimertinib resistance in non-small cell lung cancer.,12,0,,False
+41205382,HMOX1 expression influence the role of macrophage in EGFR-TKI resistance of lung adenocarcinoma.,12,0,,False
+41182463,Fibrinogen beta chain as a prognostic biomarker and therapeutic target in tobacco-associated lung adenocarcinoma.,4,0,,False
+41181634,Gamma Knife consolidation therapy improves prognosis in patients with advanced epidermal growth factor receptor-mutant lung adenocarcinoma treated with first-generation epidermal growth factor receptor-tyrosine kinase inhibitors.,8,0,,False
+41162774,"Distinct survival, optimal combination strategy of immunotherapy, and immunophenotype in uncommon and 20ins EGFR-mut lung adenocarcinoma: a multi-center study.",10,0,,False
+41148486,TPM3-NTRK1 fusion confers resistance to osimertinib in lung adenocarcinoma: a model in a continuous cell line.,9,0,,False
+41146333,Peripheral blood mononuclear cell DNA methylation biomarkers for prognostic stratification in Chinese lung adenocarcinoma: a genome-wide epigenetic profiling study.,11,0,,False
+41145422,Hypoxia-induced exosomal LUCAT1 promotes osimertinib resistance in lung adenocarcinoma by stabilizing c-MET.,13,0,,False
+41133137,Sequential tyrosine kinase inhibitor therapy for EGFR L747P-mutated lung adenocarcinoma in a renal transplant recipient: a 24-month case report.,8,0,,False
+41131337,Epigenetic priming promotes tyrosine kinase inhibitor resistance and oncogene amplification.,20,0,,False
+41121207,Activating NEDD4L suppresses EGFR-driven lung adenocarcinoma growth via facilitating EGFR proteasomal degradation.,15,0,,False
+41113459,Tumor organoids may be more suitable for clinical personalized chemotherapeutic drug screening in lung adenocarcinoma.,7,0,,False
+41076079,GSTA1 Conferred Tolerance to Osimertinib and Provided Strategies to Overcome Drug-Tolerant Persister in EGFR-Mutant Lung Adenocarcinoma.,13,0,,False
+41074434,Integrated Analysis of Single-cell and Bulk-RNA Sequencing Data to Identify Redox-related Genes as Prognostic Biomarkers and Therapeutic Targets of Lung Adenocarcinoma With Osimertinib Resistance.,10,0,,False
+41074181,Successful treatment of osimertinib-resistant EGFR-mutant NSCLC with acquired BRAF V600E mutation using triple combination therapy: a case report with pathological confirmation.,4,0,,False
+41064365,tRF3a-MetCAT Promotes EGFR-Targeted Therapeutic Resistance through the TRIM21-STAT1-C5a Axis in Lung Adenocarcinoma.,7,0,,False
+41050881,S100A6 Induces the Resistance to Gefitinib in Human Lung Adenocarcinoma PC9 Cell Lines with EGFR 19 Exon Mutations.,2,0,,False
+41033606,Targeting inosine metabolism to enhance EGFR-targeted therapy in lung adenocarcinoma.,13,0,,False
+41008926,Real World Data on the Efficacy of Brigatinib in ALK-Positive Non-Small Cell Lung Cancer: A Single-Center Experience.,18,0,,False
+40999598,Clinical Outcomes of Different Generation EGFR TKIs in Susceptible EGFR-Mutated Advanced Nonsmall-Cell Lung Cancer.,10,0,,False
+40998804,Oncogenic driver mutations underlie the spatial tumour immune landscape of non-small cell lung cancer.,17,0,,False
+40989771,Sunvozertinib Monotherapy in Advanced Lung Adenocarcinoma with <i>EGFR</i> Exon 20 Insertion and High PD-L1 Expression: A Case Report.,2,0,,False
+40980143,Challenges associated with the treatment of E709K and L858R double mutation in lung adenocarcinoma: A case report and literature review.,8,0,,False
+40979592,Assembly factor for spindle microtubules (<i>ASPM</i>) promotes osimertinib resistance in lung cancer by increasing <i>EGFR</i> stability.,6,0,,False
+40971820,Predicting response and survival of lung adenocarcinoma under anti-programmed death-1 therapy using biological deep learning.,12,0,,False
+40967881,[Analysis of gene detection results of next-generation sequencing of liquid based cytological specimens of lung adenocarcinoma cavity effusion and evaluation of clinical efficacy].,12,0,,False
+40963567,Treatment of advanced lung adenocarcinoma with EGFR L833V/H835L compound mutations using furmonertinib: two case reports and literature review.,9,0,,False
+40960008,Optimization of First-Line Treatment Options in HER2-Altered Lung Adenocarcinoma: A Real-World Study.,13,0,,False
+40959071,Case Report: Durable complete response to antigen-specific cytotoxic T lymphocyte therapy in advanced EGFR-TKI resistant lung adenocarcinoma: a case of adoptive cellular immunotherapy overcoming acquired targeted resistance.,8,0,,False
+40958043,Impact of EGFR mutation subtypes and TKI generations on clinical outcomes in lung adenocarcinoma patients with brain metastases treated with gamma knife radiosurgery.,6,0,,False
+40948846,Long-term survival with adaptive dual-targeted therapy in an epidermal growth factor receptor (<i>EGFR</i>)-mutant non-small cell lung cancer patient with mesenchymal-epithelial transition (<i>MET</i>) amplification guided by minimal residual disease (MRD) assessments: a case report and literature review.,9,0,,False
+40935642,[Research Progress on the Regulation of Third-generation EGFR-TKIs Resistance  in Non-small Cell Lung Cancer by Redox Homeostasis].,3,0,,False
+40914994,Identifying meaningful drug response biomarkers from public pharmacogenomic datasets with biologically informed interpretable neural networks.,3,0,,False
+40913720,Survival outcomes of upfront versus delayed craniocerebral radiotherapy in EGFR-mutant NSCLC patients treated with third-generation EGFR-TKIs.,7,0,,False
+40912044,Impact of rare EGFR exon 19 insertion-deletion variants on tyrosine kinase inhibitor efficacy in non-small-cell lung cancer: a 5-year multicenter analysis.,11,0,,False
+40911243,Development and Validation of a Pathomics-Based Prognostic Model for Patients with Lung Adenocarcinoma Undergoing First-Line EGFR-TKI Therapy.,17,0,,False
+40897859,5-HT regulates resistance to aumolertinib by attenuating ferroptosis in lung adenocarcinoma.,13,0,,False
+40873587,Trastuzumab deruxtecan for the treatment of metastatic non-small cell lung cancer harboring <i>HER2</i> non-exon 19/20 mutations: four case reports.,6,0,,False
+40856433,Prognostic and Monitoring Utility of Serum CEA in Lung Adenocarcinoma: Differential Roles in EGFR-TKI and Chemotherapy Treatments.,5,0,,False
+40851084,Identification of SUMOylation modifiers involved in lung adenocarcinoma progression and Osimertinib resistance by integrated bioinformatics analysis.,10,0,,False
+40847555,Persistent lineage plasticity driving lung cancer development and progression.,8,0,,False
+40803053,Real-world progression-free survival of first line afatinib patients with EGFR-mutant advanced lung adenocarcinoma: A multicentre study in Indonesia.,16,0,,False
+40773366,Applying next-generation sequencing to predict short progression-free survival in patients with advanced EGFR -mutant lung adenocarcinoma receiving epidermal growth factor receptor tyrosine kinase inhibitors.,8,0,,False
+40758475,Association Between Pathologic Response and Survival Following Neoadjuvant Targeted Therapy in Epidermal Growth Factor Receptor-Mutant Lung Adenocarcinoma.,9,0,,False
+40757605,Clinical Application of In-House Comprehensive Genomic Profiling for Thoracic Cancer: Insights From a Japanese Hospital.,26,0,,False
+40744230,Targeting N<sup>6</sup>-methyladenosine demethylase FTO overcomes osimertinib resistance by inducing G0/G1 phase arrest in an m<sup>6</sup>A-dependent manner in lung adenocarcinoma.,10,0,,False
+40739818,Longitudinal single-cell RNA model aids prediction of EGFR-TKI resistance.,6,0,,False
+40732366,Ginsenoside Rg3 Adjunctively Increases the Efficacy of Gefitinib Against NSCLC by Regulating EGFR Copy Number.,11,0,,False
+40729086,Predictive and Prognostic Significance of Serum Neuron-Specific Enolase in Patients with Metastatic Non-Small Cell Lung Cancer Receiving Gefitinib: A Prospective Study from South Egypt Cancer Institute.,5,0,,False
+40722683,Proteomic Profiling Reveals TPR and FGA as Predictive Serum Biomarkers of Relapse to First- and Second-Generation EGFR-TKIs in Advanced Lung Adenocarcinoma.,6,0,,False
+40720248,RKIP overexpression reduces lung adenocarcinoma aggressiveness and sensitizes cells to EGFR-targeted therapies.,11,0,,False
+40713600,MCAM interacts with integrin β1 to promote EGFR-TKI resistance in lung adenocarcinoma through the JAK3 signalling pathway.,14,0,,False
+40689570,The value of 18 F-2-fluoro-2-deoxyglucose PET/computed tomography radiomics in epidermal growth factor receptor mutation subtypes prediction and progression-free survival in advanced lung adenocarcinoma patients with first-line epidermal growth factor receptor tyrosine kinase inhibitors therapy.,6,0,,False
+40685347,EMP3 is upregulated upon epithelial-mesenchymal transition and contributes to EGFR-tyrosine kinase inhibitor resistance in lung adenocarcinoma.,5,0,,False
+40654861,Complementary modes of resistance to <i>EGFR</i> TKI in lung adenocarcinoma through MAPK activation and cellular plasticity.,16,0,,False
+40618443,CENPA-driven transcriptional activation of ECT2 enhances EGFR inhibitor resistance in lung adenocarcinoma.,9,0,,False
+40615564,Longitudinal pharmacogenomic analysis of refractory lung cancer to identify therapeutic candidates for epidermal growth factor receptor-tyrosine kinase inhibitor resistance subclones.,10,0,,False
+40578034,4-O-Demethylbarbatic acid has a novel therapeutic impact on the progression of EGFR-driven lung adenocarcinoma.,7,0,,False
+40545422,Phase II Trial of LP-300 in Combination With Carboplatin and Pemetrexed in Never Smoker Patients With Relapsed Advanced Primary Adenocarcinoma of the Lung After Treatment With Tyrosine Kinase Inhibitors.,19,0,,False
+40534731,Epidermal Growth Factor Receptor Kinase Domain Duplication in Lung Adenocarcinoma with Response to Osimertinib: A Case Report and Literature Review.,3,0,,False
+40529377,"Integrated pan-cancer analysis of ADM's role in prognosis, immune modulation and resistance.",2,0,,False
+40512522,Progression of drug resistance or multiple primary lung cancer: a case report and literature review of a patient with mesenchymal-epithelial transition factor exon 14 skipping alterations lung adenocarcinoma.,6,0,,False
+40493902,Identifying circRNA-miRNA-mRNA Networks Associated with Osimertinib Resistance in Lung Adenocarcinoma by Analyzing Microarray Datasets.,5,0,,False
+40488279,"An Advanced IVB Lung Adenocarcinoma Patient With KRAS Mutations, Benefited From Camrelizumab Combined With Anti-Angiogenic Agents for Therapy: A Case Report.",10,0,,False
+40482589,TLE1 drives EGFR-TKI resistance in EGFR-mutant lung adenocarcinoma through epithelial to mesenchymal transition.,7,0,,False
+40470164,Combination Therapy With MET Tyrosine Kinase Inhibitor and EGFR Tyrosine Kinase Inhibitor in Patients With MET-Overexpressed EGFR-Mutant Lung Adenocarcinoma.,6,0,,False
+40463905,ARID1A deficiency attenuates the response to EGFR-TKI treatment in lung adenocarcinoma.,8,0,,False
+40460030,Benefit of switching to firmonertinib following almonertinib-induced interstitial pneumonitis in a patient with advanced non-small-cell lung cancer: a case report.,3,0,,False
+40450112,Drug tolerance and persistence to EGFR inhibitor treatment are mediated by an ILK-SFK-YAP signaling axis in lung adenocarcinoma.,17,0,,False
+40437627,Transcriptomic analysis of transformed small-cell lung cancer from EGFR-mutated lung adenocarcinoma reveals distinct subgroups and precision therapy opportunities.,16,0,,False
+40412102,Intrathecal nivolumab and IL-2 for treatment of leptomeningeal metastases in EGFR-mutated lung adenocarcinoma.,8,0,,False
+40410020,"Impact of TP53 Co-Mutation on Clinicopathological Features, Prognosis, Recurrence Patterns, and the Efficacy of EGFR-TKI Treatment After Recurrence in Resected Early-Stage EGFR-Mutated Lung Adenocarcinoma.",16,0,,False
+40394562,EGFR exon 20 insertions mutation in lung adenocarcinoma and its response by high-dose of Furmonertinib: a real-world study.,11,0,,False
+40370648,Efficacy and safety of furmonertinib in patients with EGFR‑mutant advanced lung adenocarcinoma after failure of multiple lines of therapy: A single‑center retrospective study.,7,0,,False
+40365349,Copy number gain of MET gene with low level in a metastatic lung adenocarcinoma patient represents response to salvage treatment with savolitinib and osimertinib: a case report.,5,0,,False
+40361443,Beyond Carcinoembryonic Antigens: The Role of CA-125 and CA-199 in Predicting Prognosis of Lung Adenocarcinoma.,5,0,,False
+40357782,Promising Response to Pyrotinib in Non-Small-Cell Lung Cancer with the Rare HER2 R456C Mutation: A Case Report.,6,0,,False
+40354707,Halofuginone targets Serine/Glycine synthesis to reverse epidermal growth factor receptor Tyrosine Kinase inhibitor resistance in lung adenocarcinoma.,14,0,,False
+40350470,Basal-shift transformation leads to EGFR therapy-resistance in human lung adenocarcinoma.,34,0,,False
+40326033,"Data-independent Acquisition Mass Spectrometry Reveals Exosomal LAMC1 as a Key Determinant of Lung Adenocarcinoma Radiosensitivity, Independent of EGFR Mutation.",8,0,,False
+40303499,Malignant features related PRDX1 associated with osimertinib sensitivity of EGFR-mutant lung adenocarcinoma.,7,0,,False
+40290805,"HDAC5, an early osimertinib-responsive gene, is a novel therapeutic target for the drug resistance in <i>EGFR</i>-mutant lung adenocarcinoma cells.",9,0,,False
+40281631,Plasma cell-free DNA methylation profile before afatinib treatment is associated with progression-free and overall survival of patients with epidermal growth factor receptor gene mutation-positive non-small cell lung cancer.,31,0,,False
+40258843,PAK5 promotes the trastuzumab resistance by increasing HER2 nuclear accumulation in HER2-positive breast cancer.,11,0,,False
+40248729,Palliative surgery is effective in patients with <i>EGFR</i>-mutant lung adenocarcinoma with pleural metastasis.,14,0,,False
+40248726,Metachronous development of L858R and T790M EGFR mutations following ALK inhibitor therapy in stage IV lung adenocarcinoma: a case report.,8,0,,False
+40237189,Protein Nanoparticles Simultaneously Displaying TRAIL and EGFR-Binding Ligands Effectively Induce Apoptotic Cancer Cell Death and Overcome EGFR-TKI Resistance in Lung Cancer.,7,0,,False
+40234395,AHSA1-HSP90AA1 complex stabilized IFI6 and TGFB1 promotes mitochondrial stability and EMT in EGFR-mutated lung adenocarcinoma under Osimertinib pressure.,7,0,,False
+40224214,Comparison and Analysis of the Drug-Resistance Mechanism of Osimertinib- and Almonertinib-Resistant Cell Lines.,9,0,,False
+40215564,Clinicopathologic features of histologic transformation in lung adenocarcinoma after treatment with epidermal growth factor receptor-tyrosine kinase inhibitors.,5,0,,False
+40215381,Efficacy of osimertinib resumption with dabrafenib and trametinib for elderly patients with EGFR-mutated lung adenocarcinoma harboring acquired BRAF V600E resistant mutation resistant to osimertinib.,16,0,,False
+40162549,"Transitional CXCL14<sup>+</sup> cancer-associated fibroblasts enhance tumour metastasis and confer resistance to EGFR-TKIs, revealing therapeutic vulnerability to filgotinib in lung adenocarcinoma.",17,0,,False
+40146384,Rare exon 18 G719A and exon 21 L833V compound EGFR mutations show favorable response to Third-Generation TKI Furmonertinib: A case report and literature review.,4,1,Yuejian,True
+40132294,Evaluating the prognostic impact of EGFR mutation on adjuvant chemotherapy efficacy in grade 3 stage IB lung adenocarcinoma.,5,0,,False
+40129940,Case Report: A novel MET exon 14 skipping mutation after EGFR-TKI resistance in advanced lung adenocarcinoma and sustained clinical response to savolitinib.,6,0,,False
+40124619,A combination of hepatic leukemia factor and circulating tumor cells serve as effective biomarkers for lung adenocarcinoma prognosis.,11,0,,False
+40117847,Gefitinib for EGFR mutated lung adenocarcinoma during pregnancy: A case report with 5-Year Follow-Up.,4,0,,False
+40114953,Novel <i>LZTR1</i> germline mutation as a mechanism of resistance to osimertinib in <i>EGFR</i>-mutated lung adenocarcinoma: a case report.,11,0,,False
+40114622,Progression-Free Survival Prediction Model Based on AI-Enhanced Dynamic Radiomics for Personalized EGFR-TKI Treatment Monitoring Patients With Lung Adenocarcinoma.,8,0,,False
+40088801,The impact of co-occurring tumor suppressor mutations with mEGFR as early indicators of relapse in lung cancer.,21,0,,False
+40058107,Long-term benefit of afatinib combined with bevacizumab in a lung adenocarcinoma patient with a novel rare EGFR Q787L mutation.,5,0,,False
+40054177,Liensinine overcomes EGFR-TKI resistance in lung adenocarcinoma through DRP1-mediated autophagy.,12,0,,False
+40051929,Salvage Surgery for Epidermal Growth Factor Receptor-Mutant Lung Cancer With Osimertinib Resistance: A Case Report.,5,0,,False
+40040879,Rare transformation from lung adenocarcinoma to sarcomatoid carcinoma mediates resistance to inhibitors targeting different driver oncogenes.,8,0,,False
+40029391,Response to PARP inhibitor in EGFR-tyrosine kinase inhibitor-resistant metastatic lung adenocarcinoma with germline PALB2 mutation.,4,0,,False
+40028158,Case report: Aumolertinib plus gumarontinib in a patient with EGFR mutated non-small-cell lung cancer harboring acquired MET amplification following progression on afatinib plus crizotinib.,4,0,,False
+40012069,Spread through air spaces may predict early progression after salvage surgery for EGFR-mutant advanced lung adenocarcinoma treated with targeted therapy.,9,0,,False
+40007550,Solid Predominant Histology and High Podoplanin Expression in Cancer-Associated Fibroblast Predict Primary Resistance to Osimertinib in <i>EGFR</i>-Mutated Lung Adenocarcinoma.,20,0,,False
+39962098,STK11 genetic alterations in metastatic EGFR mutant lung cancer.,8,0,,False
+39960762,Transformation from acquired EGFR 19del/C797S to EGFR 19del/T790M in an advanced non-small cell lung cancer patient: a case report and literature review.,5,0,,False
+39958229,Clinical features and outcomes of unresectable locally advanced lung adenocarcinoma with uncommon <i>EGFR</i> mutations: a retrospective multi-center Chinese study.,17,0,,False
+39910317,The coagulation and tumor system are directly linked through the proteolysis and activation of epidermal growth factor receptor by thrombin.,7,0,,False
+39907312,Possible new mechanisms of primary drug resistance in NSCLC with EGFR mutation treated with Osimertinib.,6,0,,False
+39871626,Downregulation of AATK enhances susceptibility to ferroptosis by promoting endosome recycling in gefitinib-resistant lung cancer cells.,5,0,,False
+39865015,[Effect of SMARCA4 mutations on the outcomes of patients with advanced EGFR mutant lung adenocarcinoma].,6,0,,False
+39809840,Genome-wide CRISPR-Cas9 screening identifies ITGA8 responsible for abivertinib sensitivity in lung adenocarcinoma.,17,0,,False
+39800484,[A Case Report of EGFR-TKIs Resistant Secondary MET Gene Amplified  Lung Squamous Cell Carcinoma and Literature Review].,3,0,,False
+39793022,Clinical outcomes and cost-utility analysis of GKRS plus TKIs versus TKIs in patients with EGFR-mutant lung adenocarcinoma and brain metastases: a Markov decision model.,7,0,,False
+39744567,"Comprehensive analysis of genomic alterations and novel prognostic biomarkers, and establishment of prediction models of metastasis in metastatic non-small cell lung cancer.",6,0,,False
+39743996,A good response to furmonertinib fourth-line treatment of an advanced lung adenocarcinoma patient with EGFR exon20in and PIK3CA mutation: a case report and literature review.,2,0,,False
+39742033,Pretreatment Lipoprotein(a) as a Biomarker for EGFR Mutation and Prognosis in Lung Adenocarcinoma.,11,0,,False
+39735556,The Effect of Fuzheng Yiai Decoction on the Transdifferentiation of Lung Adenocarcinoma in EGFR-TKI-Resistant Mice.,9,0,,False
+39725168,AYVM to AYMM Transition on HER2 Exon 20 Insertion Induces Tyrosine Kinase Inhibitor Resistance in NSCLC.,21,0,,False
+39721695,Alternating Administration of Osimertinib for Leptomeningitis and Docetaxel Plus Ramucirumab for Lung Adenocarcinoma Resistant to Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitors.,10,0,,False
+39721017,Itraconazole Reversing Acquired Resistance to Osimertinib in NSCLC by Inhibiting the SHH/DUSP13B/p-STAT3 Axis.,10,0,,False
+39716108,Optimal intervention timing for craniocerebral radiotherapy in EGFR mutant lung adenocarcinoma patients with brain metastases.,6,0,,False
+39704929,CKAP4 is a potential therapeutic target to overcome resistance to EGFR-TKIs in lung adenocarcinoma.,2,0,,False
+39694766,PD-L1 expression and immune profiling cannot predict osimertinib efficacy in lung cancer with EGFR T790 M mutation: A translational study.,21,0,,False
+39691079,Genomic characteristics of PD-L1-Induced resistance to EGFR-TKIs in lung adenocarcinoma.,7,0,,False
+39678902,A predictive nomogram for <i>EGFR</i> mutation status in lung adenocarcinoma manifesting as ground-glass nodules.,4,0,,False
+39667003,Osimertinib-Induced Toxic Epidermal Necrolysis - A Case Report.,4,0,,False
+39661202,Integration of osimertinib-targeted EGFR gene-associated differential gene expression in constructing a prognostic model for lung adenocarcinoma.,6,0,,False
+39658649,TFF3 drives Hippo dependent EGFR-TKI resistance in lung adenocarcinoma.,7,0,,False
+39637943,"Lung adenocarcinomas with mucinous histology: clinical, genomic, and immune microenvironment characterization and outcomes to immunotherapy-based treatments and KRAS<sup>G12C</sup> inhibitors.",48,0,,False
+39587788,A Case of Lung Cancer Exhibiting Pleoymorphic Carcinoma Transformation Resistance Following Treatment With Osimertinib That Was Successfully Treated Using Local Ablative Treatment.,9,0,,False
+39587349,CCDC34 maintains stemness phenotype through β-catenin-mediated autophagy and promotes EGFR-TKI resistance in lung adenocarcinoma.,12,0,,False
+39580432,Predictive value of direct bilirubin and total bile acid in lung adenocarcinoma patients treated with EGFR-TKIs.,4,0,,False
+39569608,Prognostic impact of PD-L1 expression in surgically resected EGFR-mutant lung adenocarcinoma: A real-world database study in Japan (CReGYT-01 EGFR study).,25,0,,False
+39560891,Aberrant expression of MRAS and HEG1 as the biomarkers for osimertinib resistance in LUAD.,7,0,,False
+39554895,Advanced lung adenocarcinoma with <i>EGFR</i> 19-del mutation transforms into squamous cell carcinoma after <i>EGFR</i> tyrosine kinase inhibitor treatment.,2,0,,False
+39528815,RBM15 facilitates osimertinib resistance of lung adenocarcinoma through m6A-dependent epigenetic silencing of SPOCK1.,16,0,,False
+39509381,Clinical and molecular characteristics associated with high PD-L1 expression in EGFR-mutated lung adenocarcinoma.,14,0,,False
+39506421,Liquid-Liquid Phase Separation in the Prognosis of Lung Adenocarcinoma: An Integrated Analysis.,5,0,,False
+39490204,Putative mechanisms of primary resistance to EGFR-targeted therapies: A retrospective study.,10,0,,False
+39443874,"In-depth exploration of the focus issues of TKI combined with radiotherapy for EGFR-mutant lung adenocarcinoma patients with brain metastasis: a systematic analysis based on literature metrology, meta-analysis, and real-world observational data.",7,0,,False
+39428057,Outcomes of First-Line Microwave Ablation of Treatment-Naive Epidermal Growth Factor Receptor-Mutated Advanced Lung Adenocarcinoma Treated with Tyrosine Kinase Inhibitors.,9,0,,False
+39414598,[TRAF4 promotes lung cancer development by activating tyrosine kinase of EGFR].,5,0,,False
+39394157,Evaluation of the prognostic value of the new 9th edition Tumor-Node-Metastases (TNM) staging system for epidermal growth factor receptor (EGFR)-mutated lung adenocarcinoma patients with bone metastases.,6,0,,False
+39362582,Paeoniae radix overcomes resistance to EGFR-TKIs via aurora B pathway suppression in lung adenocarcinoma.,4,0,,False
+39343971,HIF-1α-HPRT1 axis promotes tumorigenesis and gefitinib resistance by enhancing purine metabolism in EGFR-mutant lung adenocarcinoma.,11,0,,False
+39334060,Successful rapid improvement of acute respiratory distress syndrome induced by EGFR-mutated non-small cell lung cancer with almonertinib: a case report.,9,0,,False
+39328055,EGFR T790M mutation detection in NSCLC patients resistant to tyrosine kinase inhibitor therapy.,6,0,,False
+39298415,Repeated rebiopsy for detection of EGFR T790M mutation in patients with advanced-stage lung adenocarcinoma: Associated factors and treatment outcomes of Osimertinib.,8,0,,False
+39293411,EGFR-Tyrosine Kinase Inhibitor Combined with Radiotherapy in 105 Patients of Lung Adenocarcinoma with Brain Metastasis: A Retrospective Study of Prognostic Factor Analysis.,5,0,,False
+39275932,"Association of mean platelet volume (MPV), MPV/PLATELET (PLT) ratio, and lymphocyte/monocyte ratio (LMR) as poor prognostic factor in EGFR-mutant lung adenocarcinoma treated with EGFR tyrosine kinase inhibitor.",4,0,,False
+39268146,Efficacy and tolerability of osimertinib with dabrafenib and trametinib in <i>BRAF</i> V600E acquired <i>EGFR</i>-mutant non-small cell lung cancer: a case series.,4,0,,False
+39231972,"L3MBTL1, a polycomb protein, promotes Osimertinib acquired resistance through epigenetic regulation of DNA damage response in lung adenocarcinoma.",15,0,,False
+39198847,HDAC1 and FOXK1 mediate EGFR-TKI resistance of non-small cell lung cancer through miR-33a silencing.,8,0,,False
+39196297,LncRNA MALAT-1 modulates EGFR-TKI resistance in lung adenocarcinoma cells by downregulating miR-125.,8,0,,False
+39193383,Case report: A case of Savolitinib in the treatment of <i>MET</i> amplification mutation advanced lung adenocarcinoma with rare bilateral breast metastasis.,5,0,,False
+39175430,Efficacy and Safety of Anlotinib in EGFR-Positive Patients with Advanced Lung Adenocarcinoma Compared with Chemotherapy: A Retrospective Study.,6,0,,False
+39172188,Effect of TTF-1 expression on progression free survival of immunotherapy and chemo-/immunotherapy in patients with non-small cell lung cancer.,2,0,,False
+39150541,Transcriptomic Heterogeneity of EGFR-Mutant Non-Small Cell Lung Cancer Evolution Toward Small-Cell Lung Cancer.,12,0,,False
+39147880,PrP<sup>C</sup> controls epithelial-to-mesenchymal transition in EGFR-mutated NSCLC: implications for TKI resistance and patient follow-up.,18,0,,False
+39143613,Sunvozertinib overcoming resistance to afatinib and osimertinib in lung adenocarcinoma harboring an EGFR exon 18 DelE709_T710insD mutation.,4,0,,False
+39135785,Case report: Durable response of ensartinib targeting EML4-ALK fusion in osimertinib-resistant non-small cell lung cancer.,6,0,,False
+39130636,Identification of potential inhibitors for drug-resistant EGFR mutations in non-small cell lung cancer using whole exome sequencing data.,2,0,,False
+39123231,A case of response to combination treatment with TSA-DC-CTL immunotherapy and osimertinib in EGFR mutated advanced lung adenocarcinoma.,8,0,,False
+39113087,Complete response in a lung adenocarcinoma with pleural metastases initially treated with gefitinib and switched to osimertinib after cerebral oligo-progression with unknown T790M mutation: a case report and review of literature.,8,0,,False
+39099763,The Effect of Intracranial Control After Intracranial Local Therapy on the Prognosis of Patients with Brain Metastasis of Lung Adenocarcinoma.,8,0,,False
+39094577,In vivo vulnerabilities to GPX4 and HDAC inhibitors in drug-persistent versus drug-resistant BRAF<sup>V600E</sup> lung adenocarcinoma.,30,0,,False
+39090096,PD-L1 induces autophagy and primary resistance to EGFR-TKIs in EGFR-mutant lung adenocarcinoma via the MAPK signaling pathway.,11,0,,False
+39080187,PSIP1 promotes gefitinib resistance in lung adenocarcinoma by inducing the expression of WASF3 and its downstream ITGB3/AKT signaling.,6,0,,False
+39074422,Melatonin reverses EGFR-TKI therapeutic resistance by modulating crosstalk between circadian-related gene signature and immune infiltration patterns in patients with COVID-19 and lung adenocarcinoma.,7,0,,False
+39071569,Highly consistency of <i>PIK3CA</i> mutation spectrum between circulating tumor DNA and paired tissue in lung cancer patients.,9,0,,False
+39059510,The combined inhibition of SLC1A3 and glutaminase in osimertinib-resistant EGFR mutant cells.,14,0,,False
+39048364,Successful Treatment with Ramucirumab Plus Erlotinib following Osimertinib-induced Interstitial Lung Disease.,6,0,,False
+39044569,Association of R-loop binding proteins with prognosis and anti-tumor drug sensitivity in lung adenocarcinoma: a bioinfor-matic study.,3,0,,False
+39015891,Advanced Lung Adenocarcinoma with EGFR 19-del Mutation Transformed into SCC after EGFR-tyrosine Kinase inhibitors Treatment: A Case report.,7,0,,False
+38997622,eHSP90α in front-line therapy in EGFR exon 19 deletion and 21 Leu858Arg mutations in advanced lung adenocarcinoma.,7,0,,False
+38996163,Dacomitinib overcomes acquired resistance to osimertinib in advanced NSCLC patients with EGFR L718Q mutation: A two-case report.,4,0,,False
+38988445,Combination of microwave ablation and systemic treatments achieve a long survival time for a patient with metachronous advanced double primary lung and colon adenocarcinoma: A case report.,8,0,,False
+38987188,Durable Response of Pembrolizumab for EGFR Mutation-positive Lung Adenocarcinoma with Early Progression to Osimertinib in First-line Treatment.,7,0,,False
+38982693,Successful Treatment of Switching EGFR-TKIs for Advanced Lung Adenocarcinoma Due to Interstitial Lung Disease: A Case Report.,6,0,,False
+38974236,EGFR kinase domain duplication in lung adenocarcinoma with systemic and intracranial response to a double-dose of furmonertinib: a case report and literature review.,6,0,,False
+38973951,Clinical impact of <i>EGFR</i> and <i>KRAS</i> mutations in surgically treated unifocal and multifocal lung adenocarcinoma.,7,0,,False
+38972026,Osimertinib in a patient with end-stage kidney disease not on hemodialysis.,5,0,,False
+38969770,GSTO1 aggravates EGFR-TKIs resistance and tumor metastasis via deglutathionylation of NPM1 in lung adenocarcinoma.,13,0,,False
+38963978,A precise microdissection strategy enabled spatial heterogeneity analysis on the targeted region of formalin-fixed paraffin-embedded tissues.,12,0,,False
+38958710,"Silencing of lncRNA LOC105376794 promotes migration, invasion, and Gefitinib resistance of lung adenocarcinoma cells with EGFR 19Del mutation by ATF4/CHOP axis and ERK phosphorylation.",4,0,,False
+38941131,Afatinib plus PEM and CBDCA overcome osimertinib resistance in EGFR-mutated NSCLC with high thrombospondin-1 expression.,9,0,,False
+38940035,DEPDC1B is a Novel Direct Target of B-Myb and Contributes to Malignant Progression and Immune Infiltration in Lung Adenocarcinoma.,11,0,,False
+38924456,First case report of sunvozertinib for the treatment of HER2 exon 20 insertion in lung adenocarcinoma.,7,0,,False
+38923311,A retrospective study of first-line therapy and subsequent pyrotinib treatment in advanced lung adenocarcinoma with HER2 mutations.,10,0,,False
+38902688,Liquid-based cytology specimens for next-generation sequencing in lung adenocarcinoma: challenges and evaluation of targeted therapy.,12,0,,False
+38895622,Case report: EGFR-TKI rechallenge after osimertinib-induced interstitial lung disease: a case report and literature review.,3,0,,False
+38872157,DUSP5 regulated by YTHDF1-mediated m6A modification promotes epithelial-mesenchymal transition and EGFR-TKI resistance via the TGF-β/Smad signaling pathway in lung adenocarcinoma.,12,0,,False
+38871738,Mixed responses to targeted therapy driven by chromosomal instability through p53 dysfunction and genome doubling.,48,0,,False
+38866326,Mutational Characteristics and Clinical Outcomes for Lung Adenocarcinoma With EGFR Germline Mutations.,16,0,,False
+38848248,Icotinib in a lung adenocarcinoma patient with acquired EGFR 19del/C797S mutation-mediated resistance to osimertinib: a case report.,6,0,,False
+38822519,Simultaneous Acquisition of T790M Mutation and SCLC Transformation during Targeted Therapy in EGFR-Mutated Lung Adenocarcinoma: A Rare Case Report.,11,0,,False
+38803532,Repeat biopsy versus initial biopsy in terms of complication risk factors and clinical outcomes for patients with non-small cell lung cancer: a comparative study of 113 CT-guided needle biopsy of lung lesions.,9,0,,False
+38796386,[Resistance to anti-EGFR through the successive and cumulative acquisition of two new oncogenic addictions: BRAF and ALK].,7,0,,False
+38781763,The clinicopathological features and possible physiological mechanisms of only the EGFR-T790M primary mutation in patients with lung adenocarcinoma.,5,0,,False
+38776647,Unfavorable response to capmatinib for MET exon14 skipping after first-line osimertinib in a patient with EGFR-mutated lung adenocarcinoma: A case report and literature review.,8,0,,False
+38761523,Polyphyllin I ameliorates gefitinib resistance and inhibits the VEGF/VEGFR2/p38 pathway by targeting HIF-1a in lung adenocarcinoma.,12,0,,False
+38723294,Prognostic significance of SIRI in patients with late-stage lung adenocarcinoma receiving EGFR-TKI treatment.,2,0,,False
+38720809,ALK-rearranged and EGFR wild-type lung adenocarcinoma transformed to small cell lung cancer: a case report.,4,0,,False
+38704786,"Prognostic value of combining clinical factors, <sup>18</sup>F-FDG PET-based intensity, volumetric features, and deep learning predictor in patients with EGFR-mutated lung adenocarcinoma undergoing targeted therapies: a cross-scanner and temporal validation study.",6,0,,False
+38601319,Redox<sup>high</sup> phenotype mediated by KEAP1/STK11/SMARCA4/NRF2 mutations diminishes tissue-resident memory CD8+ T cells and attenuates the efficacy of immunotherapy in lung adenocarcinoma.,20,0,,False
+38593249,Nicotinamide in Combination with EGFR-TKIs for the Treatment of Stage IV Lung Adenocarcinoma with EGFR Mutations: A Randomized Double-Blind (Phase IIb) Trial.,10,0,,False
+38538642,Monolayer culture alters EGFR inhibitor response through abrogation of microRNA-mediated feedback regulation.,4,0,,False
+38523603,Clinical outcome of bevacizumab or ramucirumab combined with epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors as the first line therapy in susceptible EGFR-mutated advanced non-small-cell lung.,11,0,,False
+38521369,L-Methionine accentuates anti-tumor action of Gefitinib in Gefitinib-resistant lung adenocarcinoma: Role of EGFR/ERK/AKT signaling and histone H3K36me2 alteration.,3,0,,False
+38515096,Clinical characteristics and MRI based radiomics nomograms can predict iPFS and short-term efficacy of third-generation EGFR-TKI in EGFR-mutated lung adenocarcinoma with brain metastases.,8,0,,False
+38500795,Next-generation sequencing reveals genetic heterogeneity and resistance mechanisms in patients with <i>EGFR</i>-mutated non-small cell lung cancer treated with afatinib.,5,0,,False
+38476120,Efficacy of Definitive Radiotherapy for Patients with Clinical Stage IIIB or IIIC Lung Adenocarcinoma and Epidermal Growth Factor Receptor (EGFR) Mutations Treated Using First- or Second-Generation EGFR Tyrosine Kinase Inhibitors.,6,0,,False
+38473364,Induction of Multiple Alternative Mitogenic Signaling Pathways Accompanies the Emergence of Drug-Tolerant Cancer Cells.,2,0,,False
+38472205,NEAT1_1 confers gefitinib resistance in lung adenocarcinoma through promoting AKR1C1-mediated ferroptosis defence.,13,0,,False
+38430418,MET overexpression correlated with prognosis of EGFR-mutant treatment‑naïve advanced lung adenocarcinoma: a real‑world retrospective study.,9,0,,False
+38428265,"STK11/LKB1 alterations worsen the poor prognosis of KRAS mutated early-stage non-squamous non-small cell lung carcinoma, results based on the phase 2 IFCT TASTE trial.",14,0,,False
+38416376,"EGFR and ERBB2 Exon 20 Insertion Mutations in Chinese Non-small Cell Lung Cancer Patients: Pathological and Molecular Characterization, and First-Line Systemic Treatment Evaluation.",12,0,,False
+38402182,Emerging trends in the coexistence of primary lung Cancer and hematologic malignancy: a comprehensive analysis of clinicopathological features and genetic abnormalities.,11,0,,False
+38402169,Chemotherapy versus personalized therapy for EGFR mutant lung adenocarcinoma resistance to EGFR-tyrosine kinase inhibitors: a retrospective dual-center study.,9,0,,False
+38375203,The prognosis of TP53 and EGFR co-mutation in patients with advanced lung adenocarcinoma and intracranial metastasis treated with EGFR-TKIs.,11,0,,False
+38364745,Survival outcomes of targeted and immune consolidation therapies in locally advanced unresectable lung adenocarcinoma.,9,0,,False
+38353428,Bilateral diffuse metastases in advanced lung adenocarcinoma harboring EGFR mutations was associated with a favorable prognosis to EGFR-TKIs.,7,0,,False
+38348924,Genomic heterogeneity of multiple synchronous lung cancers in Chinese population.,10,0,,False
+38332908,"Case report: Target and immunotherapy of a lung adenocarcinoma with enteric differentiation, <i>EGFR</i> mutation, and high microsatellite instability.",4,0,,False
+38295916,Lipocalin 2 (LCN2) confers acquired resistance to almonertinib in NSCLC through LCN2-MMP-9 signaling pathway.,9,0,,False
+38261958,Camrelizumab combined with apatinib and nanoparticle albumin-bound paclitaxel in lung adenocarcinoma (CAPAP-lung): a single-arm phase II study.,18,0,,False
+38250731,Prognostic significance of integrating total metabolic tumor volume and EGFR mutation status in patients with lung adenocarcinoma.,7,0,,False
+38232540,Xie-Bai-San increases NSCLC cells sensitivity to gefitinib by inhibiting Beclin-1 mediated autophagosome formation.,10,0,,False
+38226159,<i>In situ</i> modeling of acquired resistance to RTK/RAS-pathway-targeted therapies.,6,0,,False
+38206746,First report of furmonertinib as a first-line treatment in advanced lung adenocarcinoma patients harboring EGFR exon 20 insertion mutations after the kinase domain αC-helix: Two case reports and a literature review.,9,0,,False
+38188463,Primary tumor consolidative therapy improves the outcomes of patients with advanced <i>EGFR</i>-mutant lung adenocarcinoma treated with first-line osimertinib.,13,0,,False
+38157805,Micropapillary and solid components as high-grade patterns in IASLC grading system of lung adenocarcinoma: Clinical implications and management.,9,0,,False
+38142271,The D ~ Sense ex-vivo viability assay application in a patient with stage IV lung adenocarcinoma: a case report.,8,0,,False
+38134118,Case report: Successful sequential therapy of crizotinb and entrectinib in ROS1-positive non-small-cell lung cancer with brain metastasis in later-settings.,6,0,,False
+38113653,Comparison of the somatic genomic landscape between central- and peripheral-type non-small cell lung cancer.,8,0,,False
+38105006,Effect of Tegafur-Uracil in Resected Stage IB Lung Adenocarcinoma According to Presence or Absence of Epidermal Growth Factor Receptor Gene Mutation: A Retrospective Cohort Study.,7,0,,False
+38090524,Long-term survival after stereotactic body radiotherapy combined with immunotherapy plus anti-angiogenesis therapy in patients with advanced non-small cell lung cancer and <i>EGFR</i> exon 20 insertion mutation: a report of two cases.,11,0,,False
+38074875,Presence of MET exon 14 skipping and fusion as mechanism of osimertinb resistance in a lung adenocarcinoma with an EGFR exon 19 deletion that responds to combination of capmatinib and osimertinb: A case report.,4,0,,False
+38073064,SOS2 modulates the threshold of EGFR signaling to regulate osimertinib efficacy and resistance in lung adenocarcinoma.,7,0,,False
+39822333,Successful treatment of a patient with NSCLC carrying uncommon compound L861Q/G719X epidermal growth factor receptor mutations using Afatinib.,8,0,,False
+38062690,[Clinical analysis of lung adenocarcinoma with epidermal growth factor receptor mutation transformed into sarcoma].,6,0,,False
+38025811,Impact of RBM10 and PD-L1 expression on the prognosis of pathologic N1-N2 epidermal growth factor receptor mutant lung adenocarcinoma.,13,0,,False
+37990309,A real-world study and network pharmacology analysis of EGFR-TKIs combined with ZLJT to delay drug resistance in advanced lung adenocarcinoma.,7,0,,False
+37969256,Efficacy and safety of anti-programmed cell death protein 1 antibody combination therapy in patients with advanced experienced epidermal growth factor receptor-tyrosine kinase inhibitor-resistant lung adenocarcinoma: a retrospective cohort study.,11,0,,False
+37958300,Evaluating the Potential of Delta Radiomics for Assessing Tyrosine Kinase Inhibitor Treatment Response in Non-Small Cell Lung Cancer Patients.,12,0,,False
+37924135,DNA damage response and repair gene mutations are associated with tumor mutational burden and outcomes to platinum-based chemotherapy/immunotherapy in advanced NSCLC patients.,5,0,,False
+37920509,A prognostic model of drug tolerant persister-related genes in lung adenocarcinoma based on single cell and bulk RNA sequencing data.,11,0,,False
+37909987,Multi-gene Liquid Biopsy to Detect Resistance to First-line Osimertinib in Patients With <i>EGFR</i>-mutated Lung Adenocarcinoma.,13,0,,False
+37887535,"The Combined Therapy of Cabozantinib, Crizotinib, and Osimertinib in a Lung Cancer Patient with Acquired MET Amplification and Resistance Mutations.",9,0,,False
+37868836,Expression of <i>EGFR</i>-mutant proteins and genomic evolution in <i>EGFR</i>-mutant transformed small cell lung cancer.,18,0,,False
+37860534,Afatinib overcoming resistance to icotinib and osimertinib in NSCLC with leptomeningeal metastasis in patients with acquired EGFR L858R/T790M or L858R/S768I mutations: Two case reports.,6,0,,False
+37854677,Sequential treatment in advanced epidermal growth factor receptor-mutated lung adenocarcinoma patients receiving first-line bevacizumab combined with 1st/2nd-generation EGFR-tyrosine kinase inhibitors.,12,0,,False
+37854151,Thyroid transcription factor-1 (TTF-1) expression and the efficacy of combination therapy with immune checkpoint inhibitors and cytotoxic chemotherapy in non-squamous non-small cell lung cancer.,9,0,,False
+37844446,Targeting MET endocytosis or degradation to overcome HGF-induced gefitinib resistance in EGFR-sensitive mutant lung adenocarcinoma.,8,0,,False
+37831287,"Gefitinib, an effective treatment option for patients with pulmonary enteric adenocarcinoma harboring compound EGFR L858R and A871G mutation.",6,0,,False
+37805442,[Effect of SLC7A11 gene downregulation on the gefitinib resistance of lung adenocarcinoma PC9/GR cells and its mechanism].,7,0,,False
+37762133,Inhibition of HSP90 in Driver Oncogene-Defined Lung Adenocarcinoma Cell Lines: Key Proteins Underpinning Therapeutic Efficacy.,9,0,,False
+37759881,Effect of Different Timing of Local Brain Radiotherapy on Survival of EGFR-Mutated NSCLC Patients with Limited Brain Metastases.,5,0,,False
+37719840,Successful treatment of lung adenocarcinoma complicated with a rare compound <i>EGFR</i> mutation L833V/H835L using aumolertinib: a case report and literature review.,6,0,,False
+37702808,Clinico-pathological characteristics of IGFR1 and VEGF-A co-expression in early and locally advanced-stage lung adenocarcinoma.,6,0,,False
+37672936,Effects of concurrent TP53 mutations on the efficacy and prognosis of targeted therapy for advanced EGFR mutant lung adenocarcinoma.,10,1,ChengJi,True
+37661184,Regulation of epidermal growth factor receptor tyrosine kinase inhibitor resistance via Ambra1-mediated autophagy in non-small cell lung cancer.,5,0,,False
+37659097,Downregulation of AP1S1 causes the lysosomal degradation of EGFR in non-small cell lung cancer.,8,0,,False
+37655206,Management of diarrhea induced by EGFR-TKIs in advanced lung adenocarcinoma.,7,0,,False
+37653755,Efficacy of 3rd generation TKI in patients with EGFR mutation lung adenocarcinoma with bone metastases: A review of 3 case reports and literature.,11,0,,False
+37605791,Thyroid transcription factor 1 (TTF-1) negativity as a predictor of unfavorable response to EGFR-TKI therapy in advanced lung adenocarcinoma patients with EGFR mutations.,12,0,,False
+37578745,"Promising response of dabrafenib, trametinib, and osimertinib combination therapy for concomitant BRAF and EGFR-TKI resistance mutations.",8,0,,False
+37575210,A Case Report on Rare Case of Pancreatic Metastasis from Primary Lung Adenocarcinoma: Treated Through a Non-surgical Approach.,4,0,,False
+37559636,"Aumolertinib in NSCLC with leptomeningeal involvement, harbouring concurrent <i>EGFR</i> exon 19 deletion and <i>TP53</i> comutation: a case report.",9,0,,False
+37559419,Clinical efficacy and safety of adjuvant EGFR-TKIs for resected stage IB lung adenocarcinoma: A real-world study based on propensity score matching.,9,0,,False
+37554188,A novel acquired <i>EGFR-SEPT14</i> fusion confers differential drug resistance to EGFR inhibitors in lung adenocarcinoma.,8,0,,False
+37532906,Comprehensive analysis of resistance mechanisms to EGFR-TKIs and establishment and validation of prognostic model.,13,0,,False
+37499696,Clinical Impact of Genomic and Pathway Alterations in Stage I EGFR-Mutant Lung Adenocarcinoma.,4,0,,False
+37468822,Prognostic impact of EGFR/ALK alterations in leptomeningeal metastasis from lung adenocarcinoma treated with whole-brain radiotherapy.,16,0,,False
+37457583,Rechallenge with EGFR-TKI after failure of immunotherapy is considered an effective treatment for advanced lung adenocarcinoma patients with EGFR exon 19 deletion: a case report.,6,0,,False
+37449979,Successful treatment of severe lung cancer caused by third-generation EGFR-TKI resistance due to EGFR genotype conversion with afatinib plus anlotinib.,5,0,,False
+37418984,ADAM12 promotes the resistance of lung adenocarcinoma cells to EGFR-TKI and regulates the immune microenvironment by activating PI3K/Akt/mTOR and RAS signaling pathways.,5,0,,False
+37402054,PD-L2 overexpression on tumor-associated macrophages is one of the predictors for better prognosis in lung adenocarcinoma.,8,0,,False
+37390279,"Efficacy observation and prognosis analysis of EGFR-TKIs alone versus EGFR-TKIs plus chemotherapy in advanced lung adenocarcinoma with EGFR Exon 19 Deletion, Exon 21 L858R mutation: A historical cohort study.",5,0,,False
+37390230,Clinical characteristics and establishment of a 2-year-OS predictive model of EGFR mutation-positive patients with pleural invasion of lung adenocarcinoma.,6,0,,False
+37388902,YAP1 as a Novel Negative Biomarker of Immune Checkpoint Inhibitors for EGFR-Mutant Non-Small-Cell Lung Cancer.,7,0,,False
+37361601,Etoposide/platinum plus anlotinib for patients with transformed small-cell lung cancer from EGFR-mutant lung adenocarcinoma after EGFR-TKI resistance: a retrospective and observational study.,5,0,,False
+37343380,Stromal micropapillary pattern and CD44s expression predict worse outcome in lung adenocarcinomas with micropapillary pattern.,7,0,,False
+37342191,Clinical features and prognosis of lung cancer in patients with connective tissue diseases: a retrospective cohort study.,5,0,,False
+37340370,E-cadherin expression in the tumor microenvironment of advanced epidermal growth factor receptor-mutant lung adenocarcinoma and the association with prognosis.,9,0,,False
+37278440,Pemetrexed induces ROS generation and cellular senescence by attenuating TS-mediated thymidylate metabolism to reverse gefitinib resistance in NSCLC.,7,0,,False
+37269912,FZKA reverses gefitinib resistance by regulating EZH2/Snail/EGFR signaling pathway in lung adenocarcinoma.,12,0,,False
+37268635,NOTCH4<sup>ΔL12_16</sup> sensitizes lung adenocarcinomas to EGFR-TKIs through transcriptional down-regulation of HES1.,11,0,,False
+37250453,Fibroblast Growth Factor 11 Enables Tumor Cell Immune Escape by Promoting T Cell Exhaustion and Predicts Poor Prognosis in Patients with Lung Adenocarcinoma.,3,0,,False
+37235976,Phase III Study of Afatinib or Cisplatin Plus Pemetrexed in Patients With Metastatic Lung Adenocarcinoma With <i>EGFR</i> Mutations.,20,0,,False
+37196999,Utilisation Patterns and Treatment Outcomes of EGFR-Tyrosine Kinase Inhibitors in EGFR-mutant Advanced Lung Carcinoma in the Pakistani-Asian Population: A Real-world Data Study.,3,0,,False
+37178919,Diarylheptanoid 35d overcomes EGFR TKI resistance by inducing hsp70-mediated lysosomal degradation of EGFR in EGFR-mutant lung adenocarcinoma.,17,0,,False
+37093348,Mutant-allele dispersion correlates with prognosis risk in patients with advanced non-small cell lung cancer.,5,0,,False
+37057810,Dihydroartemisinin enhances gefitinib cytotoxicity against lung adenocarcinoma cells by inducing ROS-dependent apoptosis and ferroptosis.,3,0,,False
+37047382,Comparison between Three Different Techniques for the Detection of EGFR Mutations in Liquid Biopsies of Patients with Advanced Stage Lung Adenocarcinoma.,14,1,Sardinian Lung Cancer Study Group,True
+37046096,The evolution of lung cancer and impact of subclonal selection in TRACERx.,81,0,,False
+37025321,T790M and Acquired Resistance of Epidermal Growth Factor Receptor to Tyrosine Kinase Inhibitors in Patients with Lung Adenocarcinoma.,6,0,,False
+37013960,Inhibition of CDCP1 by 8-isopentenylnaringenin synergizes with EGFR inhibitors in lung cancer treatment.,12,0,,False
+36991099,Oncogenic epidermal growth factor receptor signal-induced histone deacetylation suppresses chemokine gene expression in human lung adenocarcinoma.,6,0,,False
+36990047,A phosphoglycerate mutase 1 allosteric inhibitor overcomes drug resistance to EGFR-targeted therapy via disrupting IL-6/JAK2/STAT3 signaling pathway in lung adenocarcinoma.,17,0,,False
+36915101,Monitoring of T790M in plasma ctDNA of advanced EGFR-mutant NSCLC patients on first- or second-generation tyrosine kinase inhibitors.,10,0,,False
+36912241,Different treatment efficacies and T790M acquisition of EGFR-TKIs on NSCLC patients with variable Del-19 subtypes of EGFR.,6,0,,False
+36864513,Selenite as a dual apoptotic and ferroptotic agent synergizes with EGFR and KRAS inhibitors with epigenetic interference.,6,0,,False
+36853175,RBM10 Loss Promotes EGFR-Driven Lung Cancer and Confers Sensitivity to Spliceosome Inhibition.,11,0,,False
+36845694,Effect of EGFR-TKIs combined with craniocerebral radiotherapy on the prognosis of <i>EGFR</i>-mutant lung adenocarcinoma patients with brain metastasis: A propensity-score matched analysis.,7,0,,False
+36835213,Gain of Aggressive Histological and Molecular Patterns after Acquired Resistance to Novel Anti-EGFR Therapies in Non-Small Cell Lung Cancer.,9,0,,False
+36810856,"Transformation or tumor heterogeneity: Mutations in EGFR, SOX2, TP53, and RB1 persist in the histological rapid conversion from lung adenocarcinoma to small-cell lung cancer.",10,0,,False
+36805452,Afatinib in Untreated Stage IIIB/IV Lung Adenocarcinoma with Major Uncommon Epidermal Growth Factor Receptor (EGFR) Mutations (G719X/L861Q/S768I): A Multicenter Observational Study in Taiwan.,12,0,,False
+36790603,Cyclin-dependent kinase (CDK) 4/6 inhibition in non-small cell lung cancer with epidermal growth factor receptor (EGFR) mutations.,10,0,,False
+36776292,The efficacy of neoadjuvant <i>EGFR</i>-TKI therapy combined with radical surgery for stage IIIB lung adenocarcinoma harboring <i>EGFR</i> mutations: A retrospective analysis based on single center.,8,0,,False
+36756895,Real-world data on efficacy and safety of osimertinib in non-small cell lung cancer patients with EGFR T790M mutation detected by first and repeat rebiopsy.,9,0,,False
+36747633,In situ modeling of acquired resistance to RTK/RAS pathway targeted therapies.,6,0,,False
+36728908,Acquired EML4-ALK fusion and EGFR C797S in cis mutation as resistance mechanisms to osimertinib in a non-small cell lung cancer patient with EGFR L858R/T790M.,10,0,,False
+36727053,Stereotactic ablative radiotherapy for acquired resistance to EGFR therapy in metastatic non-small cell lung cancer.,5,0,,False
+36705363,Small cell lung cancer transformation after EGFR-TKIs treatment in lung adenocarcinoma: A case report and literatures review.,5,0,,False
+36661676,LKB1 Loss Assessed by Immunohistochemistry as a Prognostic Marker to First-Line Therapy in Advanced Non-Small-Cell Lung Cancer.,10,0,,False
+36660644,Efficacy and safety of original EGFR-TKI combined with bevacizumab in advanced lung adenocarcinoma patients harboring EGFR-mutation experiencing gradual progression after EGFR-TKI treatment: a single-arm study.,12,0,,False
+36657561,Novel EGFR-mutant mouse models of lung adenocarcinoma reveal adaptive immunity requirement for durable osimertinib response.,13,0,,False
+36652476,CBX5 loss drives EGFR inhibitor resistance and results in therapeutically actionable vulnerabilities in lung cancer.,5,0,,False
+36647832,Features of tumor-microenvironment images predict targeted therapy survival benefit in patients with EGFR-mutant lung cancer.,20,0,,False
+36626541,Durable response to osimertinib in an advanced lung adenocarcinoma patient with an uncommon EGFR T854A mutation: A case report.,5,0,,False
+36591802,Clinical characteristics and prognostic value of EGFR mutation in stage I lung adenocarcinoma with spread through air spaces after surgical resection.,5,0,,False
+36586785,Lung adenocarcinoma with neuroendocrine differentiation: Molecular markers testing and treatment outcomes.,5,0,,False
+36537128,Comprehensive Analysis of Circular RNA Expression Profiles in Gefitinib-Resistant Lung Adenocarcinoma Patients.,7,0,,False
+36535627,Single-Cell Analysis Reveals Transcriptomic Features of Drug-Tolerant Persisters and Stromal Adaptation in a Patient-Derived EGFR-Mutated Lung Adenocarcinoma Xenograft Model.,13,0,,False
+36531621,A L833V/H835L <i>EGFR</i> variant lung adenocarcinoma with skin metastasis: A case report and literature review.,3,0,,False
+36527745,Osimertinib-tolerant lung cancer cells are susceptible to ferroptosis.,6,0,,False
+36506325,Construction of the model for predicting prognosis by key genes regulating EGFR-TKI resistance.,8,0,,False
+36505794,Integrated spatial analysis of gene mutation and gene expression for understanding tumor diversity in formalin-fixed paraffin-embedded lung adenocarcinoma.,9,0,,False
+36483819,Coexistence of anaplastic lymphoma kinase rearrangement in lung adenocarcinoma harbouring epidermal growth factor receptor mutation: A single-center study.,2,0,,False
+36453446,"Pre-treatment Neutrophil-to-Lymphocyte Ratio significantly affects progression free survival in positive EGFR mutation advanced lung adenocarcinoma with EGFR-TKI treatment in Bali, Indonesia.",6,0,,False
+36419397,[Two Cases of TKI-resistant Small Cell Lung Cancer Transformation  in Advanced Adenocarcinoma and Literature Review].,6,0,,False
+39036309,Real-world treatment patterns and clinical outcomes in <i>EGFR</i>-mutant locally advanced lung adenocarcinoma: A multi-center cohort study.,15,0,,False
+36414827,Overall survival analysis of patients enrolled in a randomized phase III trial comparing gefitinib and erlotinib for previously treated advanced lung adenocarcinoma (WJOG5108LFS).,19,0,,False
+36411628,"AZ12756122, a novel fatty acid synthase inhibitor, decreases resistance features in EGFR-TKI resistant EGFR-mutated NSCLC cell models.",8,0,,False
+36389292,Clinical predictors of treatment efficacy and a prognostic nomogram in patients with lung adenocarcinoma receiving immune checkpoint inhibitors: a retrospective study.,6,0,,False
+36387265,Case Report: A patient with the rare third-generation TKI-resistant mutation <i>EGFR</i> L718Q who responded to afatinib plus cetuximab combination therapy.,6,0,,False
+36310733,Concordance of Genomic Profiles in Matched Tissue and Plasma Samples From Chinese Patients With Lung Cancer.,8,0,,False
+36304306,"Identification of Master Regulators Driving Disease Progression, Relapse, and Drug Resistance in Lung Adenocarcinoma.",6,0,,False
+36291859,Identification of EGFR-Related LINC00460/mir-338-3p/MCM4 Regulatory Axis as Diagnostic and Prognostic Biomarker of Lung Adenocarcinoma Based on Comprehensive Bioinformatics Analysis and Experimental Validation.,8,0,,False
+36265469,Resistor: An algorithm for predicting resistance mutations via Pareto optimization over multistate protein design and mutational signatures.,5,0,,False
+36249035,Case report: Different mechanisms of drug resistance in a synchronous multiple primary lung cancer patient after EGFR-TKI treatment.,2,0,,False
+36245822,Drug resistance mechanisms and progress in the treatment of EGFR-mutated lung adenocarcinoma.,4,0,,False
+36238846,Age does matter in adolescents and young adults vs. older adults with lung adenocarcinoma: A retrospective analysis comparing clinical characteristics and outcomes in response to systematic treatments.,3,0,,False
+36237272,Advanced lung adenocarcinoma (LUAD) patient with EGFR mutations benefited from multiline combination targeted therapies after osimertinib (AZD9291) resistance: a case report.,7,0,,False
+36232650,Dynamic Assessment of Tissue and Plasma <i>EGFR</i>-Activating and T790M Mutations with Droplet Digital PCR Assays for Monitoring Response and Resistance in Non-Small Cell Lung Cancers Treated with EGFR-TKIs.,6,0,,False
+36230688,Identification of Immuno-Targeted Combination Therapies Using Explanatory Subgroup Discovery for Cancer Patients with EGFR Wild-Type Gene.,7,0,,False
+36212397,Efficacy of erlotinib in NSCLC harboring rare EGFR extracellular domain mutation (T263P) and common mutations: Case report and literature review.,6,0,,False
+36206142,Reuse of osimertinib after small cell lung cancer transformation in lung adenocarcinoma with de-novo epidermal growth factor receptor T790M mutation: case report.,5,0,,False
+36204894,Afatinib treatment in a lung adenocarcinoma patient harboring a rare EGFR L747P mutation.,4,0,,False
+36193649,Metabolic and Nonmetabolic Functions of PSAT1 Coordinate Signaling Cascades to Confer EGFR Inhibitor Resistance and Drive Progression in Lung Adenocarcinoma.,18,0,,False
+36185620,The Interaction of the IFN<i>γ</i>/JAK/STAT1 and JAK/STAT3 Signalling Pathways in EGFR-Mutated Lung Adenocarcinoma Cells.,11,0,,False
+36172729,Efficacy Differences of First-line EGFR-TKIs Alone vs in Combination with Chemotherapy in Advanced Lung Adenocarcinoma Patients with Sensitive EGFR Mutation and Concomitant Non-EGFR Genetic Alterations.,10,0,,False
+36172116,"Association between <i>EGFR</i> gene mutant protein expression and T790M mutation after first-generation EGFR-TKI treatment resistance: a retrospective, single-arm clinical study.",10,0,,False

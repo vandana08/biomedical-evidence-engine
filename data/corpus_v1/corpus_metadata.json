@@ -1,0 +1,23 @@
+{
+    "corpus_name": "EGFR-NSCLC",
+    "version": "v1.0",
+    "created_at_utc": "2026-11-25T06:23:01.679281+00:00",
+    "num_unique_pmids": 957,
+    "num_chunks": 2638,
+    "num_chunk_occurrences_before_deduplication": 2696,
+    "num_duplicate_chunk_occurrences_removed": 58,
+    "num_parse_errors": 0,
+    "queries_used": [
+        "\n    (\n      \"non-small cell lung cancer\"\n      AND (EGFR OR \"EGFR mutation\" OR L858R OR T790M)\n      AND (osimertinib OR gefitinib OR erlotinib OR afatinib)\n    )\n    ",
+        "\n    (\n      \"lung adenocarcinoma\"\n      AND (EGFR OR L858R OR T790M)\n      AND (\"drug resistance\" OR \"treatment outcome\" OR \"progression-free survival\")\n    )\n    "
+    ],
+    "query_result_unique_pmids": {
+        "1": 483,
+        "2": 497
+    },
+    "focus": "EGFR-mutant NSCLC treatment evidence",
+    "chunk_size": 1000,
+    "chunk_overlap": 200,
+    "embedding_model": "text-embedding-3-small",
+    "deduplication_key": "PMID + start_index + exact chunk text"
+}
