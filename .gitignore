@@ -14,6 +14,7 @@ data/*faiss*
 data/**/*faiss*
 data/*bm25*
 data/**/*bm25*
+*_documents.pkl
 
 # Local editor settings
 .vscode/

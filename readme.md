@@ -46,7 +46,10 @@ Create a `.env` file in the project root:
 
 ```dotenv
 OPENAI_API_KEY=your_openai_api_key
+NCBI_EMAIL=your_email@example.com
 ```
+
+`OPENAI_API_KEY` is required when running the application or building the corpus. `NCBI_EMAIL` identifies the requester for PubMed/NCBI API requests and is required when rebuilding the corpus. The existing prebuilt corpus can be used without rebuilding, but an OpenAI API key is still required for embeddings and answer generation.
 
 ## Run the application
 

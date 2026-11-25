@@ -19,7 +19,7 @@ class HybridRetriever:
 
         for docs in ranked_lists:
             for rank, doc in enumerate(docs):
-                doc_id = doc.metadata["pmid"]
+                doc_id = doc.metadata["chunk_id"]
                 doc_lookup[doc_id] = doc
 
                 scores.setdefault(doc_id, 0)

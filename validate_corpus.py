@@ -57,3 +57,8 @@ for doc in documents[:3]:
     print(doc.page_content[:500])
     print("Section metadata:",
           doc.metadata.get("abstract_sections"))
+
+assert len(documents) == metadata["num_chunks"]
+assert len({d.metadata["chunk_id"] for d in documents}) == len(documents)
+assert all(d.page_content.strip() for d in documents)
+assert all(d.metadata.get("pmid") for d in documents)
