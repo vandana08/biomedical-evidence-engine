@@ -16,6 +16,22 @@ data/*bm25*
 data/**/*bm25*
 *_documents.pkl
 
+# Generated benchmark, annotation, and evaluation runs
+outputs/
+outputs/runs/
+outputs/*/evaluation/
+outputs/*/annotation/
+outputs/*/evaluation_stability/
+
+# Temporary Office and local scratch files
+~$*
+*.tmp
+
+# Local credentials and key material
+.aws/
+*.pem
+*.key
+
 # Local editor settings
 .vscode/
 

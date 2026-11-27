@@ -2,14 +2,26 @@ import hashlib
 import json
 import os
 import pickle
+import sys
 from datetime import datetime, timezone
+from pathlib import Path
 
 from dotenv import load_dotenv
-from langchain_openai import OpenAIEmbeddings
-from langchain_community.vectorstores import FAISS
-from rank_bm25 import BM25Okapi
+try:
+    from langchain_openai import OpenAIEmbeddings
+    from langchain_community.vectorstores import FAISS
+except ImportError:
+    OpenAIEmbeddings = None
+    FAISS = None
+try:
+    from rank_bm25 import BM25Okapi
+except ImportError:
+    BM25Okapi = None
 
-from src.pubmed_ingestor import PubMedIngestor
+REPO_ROOT = Path(__file__).resolve().parents[2]
+sys.path.insert(0, str(REPO_ROOT / "src"))
+
+from biomedical_evidence_engine.corpus.ingestor import PubMedIngestor
 
 load_dotenv()
 
@@ -71,6 +83,8 @@ def deduplicate_chunks(chunks, query_by_chunk):
 
 
 def build_corpus(max_records=500):
+    if OpenAIEmbeddings is None or FAISS is None or BM25Okapi is None:
+        raise ImportError("langchain-openai, langchain-community, and rank-bm25 are required to build the corpus.")
     all_chunks = []
     query_by_chunk = {}
     parse_errors = []

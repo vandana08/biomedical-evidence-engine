@@ -1,8 +1,12 @@
 from dotenv import load_dotenv
+from pathlib import Path
+import sys
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain_community.vectorstores import FAISS
-from src.pipeline import *
-from src.load_corpus import load_corpus
+sys.path.insert(0, str(Path(__file__).resolve().parent / "src"))
+
+from biomedical_evidence_engine.app.pipeline import *
+from biomedical_evidence_engine.corpus.loader import load_corpus
 import streamlit as st
 import traceback
 import pickle
