@@ -16,7 +16,12 @@ def format_docs(docs):
 
 def run_rag(query: str, faiss_db, bm25_index, documents, top_k: int = 20, return_latency: bool = False):
     request_start = time.perf_counter()
-    retriever = HybridRetriever(faiss_db=faiss_db, bm25_index=bm25_index, documents=documents)
+    retriever = HybridRetriever(
+        faiss_db=faiss_db,
+        bm25_index=bm25_index,
+        documents=documents,
+        top_k=top_k,
+    )
     retrieval_start = time.perf_counter()
     retrieved_docs = retriever.retrieve_docs(query)
     retrieval_latency_ms = (time.perf_counter() - retrieval_start) * 1000

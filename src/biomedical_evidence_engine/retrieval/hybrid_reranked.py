@@ -2,6 +2,8 @@
 
 import numpy as np
 
+from .utils import document_key
+
 
 class HybridRetriever:
     def __init__(self, faiss_db, bm25_index, documents, top_k=5):
@@ -17,7 +19,7 @@ class HybridRetriever:
         doc_lookup = {}
         for docs in ranked_lists:
             for rank, doc in enumerate(docs):
-                doc_id = doc.metadata["chunk_id"]
+                doc_id = document_key(doc)
                 doc_lookup[doc_id] = doc
                 scores.setdefault(doc_id, 0)
                 scores[doc_id] += 1 / (k + rank + 1)

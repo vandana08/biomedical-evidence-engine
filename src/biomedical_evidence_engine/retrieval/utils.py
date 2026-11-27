@@ -8,6 +8,9 @@ from typing import Any, Iterable
 def validate_query(query: str) -> str:
     if not isinstance(query, str):
         raise TypeError("query must be a string")
+    query = query.strip()
+    if not query:
+        raise ValueError("query must not be empty")
     return query
 
 
@@ -19,15 +22,12 @@ def normalize_top_k(top_k: int) -> int:
     return top_k
 
 
-def document_key(document: Any, fallback: str | None = None) -> str:
+def document_key(document: Any) -> str:
     metadata = getattr(document, "metadata", None) or {}
     chunk_id = metadata.get("chunk_id")
-    if chunk_id is not None:
-        return str(chunk_id)
-    if fallback is not None:
-        return fallback
-    page_content = getattr(document, "page_content", None)
-    return str(page_content) if page_content is not None else repr(document)
+    if not chunk_id:
+        raise ValueError("Document is missing required chunk_id metadata")
+    return str(chunk_id)
 
 
 def reciprocal_rank_fusion(ranked_lists: Iterable[Iterable[Any]], rrf_k: int = 60) -> list[Any]:

@@ -98,8 +98,8 @@ def main():
         "question_count": len(BASELINE_QUESTIONS),
         "pipeline": "biomedical_evidence_engine.app.pipeline.run_rag",
         "note": (
-            "Current run_rag creates HybridRetriever with default top_k=5. "
-            "Its top_k parameter is not passed through to HybridRetriever."
+            "run_rag forwards its top_k parameter to HybridRetriever. "
+            "Retrieved corpus chunks are identified by stable chunk_id metadata."
         ),
     }
     (out / "run_metadata.json").write_text(
