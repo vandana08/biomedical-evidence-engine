@@ -2,17 +2,17 @@
 
 import numpy as np
 
+from .reranker import get_cross_encoder_reranker
 from .utils import document_key
 
 
 class HybridRetriever:
-    def __init__(self, faiss_db, bm25_index, documents, top_k=5):
+    def __init__(self, faiss_db, bm25_index, documents, top_k=5, reranker=None):
         self.faiss_db = faiss_db
         self.bm25_index = bm25_index
         self.documents = documents
         self.top_k = top_k
-        from .reranker import CrossEncoderReranker
-        self.reranker = CrossEncoderReranker()
+        self.reranker = reranker if reranker is not None else get_cross_encoder_reranker()
 
     def reciprocal_rank_fusion(self, ranked_lists, k=60):
         scores = {}

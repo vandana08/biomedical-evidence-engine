@@ -11,6 +11,10 @@ class Document:
     chunk_id: str
 
     @property
+    def page_content(self):
+        return f"document {self.pmid} chunk {self.chunk_id}"
+
+    @property
     def metadata(self):
         return {"pmid": self.pmid, "chunk_id": self.chunk_id}
 

@@ -93,6 +93,33 @@ def test_hybrid_rrf_supports_raw_corpus_components():
     assert [doc.chunk_id for doc in result] == ["b"]
 
 
+@pytest.mark.parametrize("query", ["", "   "])
+def test_hybrid_rrf_rejects_empty_queries(query):
+    retriever = HybridRRF(
+        dense_retriever=type("Stub", (), {"retrieve_docs": lambda self, query, top_k=None: []})(),
+        bm25_retriever=type("Stub", (), {"retrieve_docs": lambda self, query, top_k=None: []})(),
+    )
+
+    with pytest.raises(ValueError, match="query must not be empty"):
+        retriever.retrieve_docs(query)
+
+
+def test_hybrid_rrf_rejects_documents_without_chunk_id():
+    missing_id = type("Document", (), {"metadata": {}, "page_content": "text"})()
+
+    class StubRetriever:
+        def retrieve_docs(self, query, top_k=None):
+            return [missing_id]
+
+    retriever = HybridRRF(
+        dense_retriever=StubRetriever(),
+        bm25_retriever=StubRetriever(),
+    )
+
+    with pytest.raises(ValueError, match="missing required chunk_id"):
+        retriever.retrieve_docs("question")
+
+
 @pytest.mark.parametrize("bad_top_k", [-1, 1.5, True])
 def test_invalid_top_k_is_rejected(bad_top_k):
     with pytest.raises((TypeError, ValueError)):
